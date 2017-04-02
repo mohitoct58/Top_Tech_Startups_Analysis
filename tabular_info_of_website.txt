@@ -1,0 +1,3213 @@
+<!DOCTYPE html>
+<!--
+    Name: YourStory Profile Home
+    Date: 20th April, 2016
+-->
+<html>
+ <head>
+  <title>
+   Profiles - A place for emerging businesses to list, promote and find opportunities
+  </title>
+  <meta charset="utf-8">
+   <meta content="Yourstory, Profiles, Startups, Companies, Investors, Organizations, Founders" name="keywords"/>
+   <meta content="Profiles - A place for emerging businesses to list, promote and find opportunities where startups can showcase and emerge." name="description"/>
+   <meta content="YourStory" name="author"/>
+   <meta content="YourStory 2016" name="copyright"/>
+   <meta content="website" property="og:type"/>
+   <meta content="http://profiles.yourstory.com" property="og:url"/>
+   <meta content="Profiles - A place for emerging businesses to list, promote and find opportunities " property="og:title"/>
+   <meta content="https://d12fdm3gkm7ro6.cloudfront.net/assets/Profiles-Logo-3ae4cc71a0daae4abc599f26f70727b36a598a29fbbbe2abcc1921e0e141bd81.png" property="og:image"/>
+   <meta content="Profiles - A place for emerging businesses to list, promote and find opportunities where startups can showcase and emerge." property="og:description"/>
+   <meta content="summary" name="twitter:card">
+    <meta content="@YSProfiles" name="twitter:site">
+     <meta content="@YSProfiles" name="twitter:creator">
+      <meta content="Profiles - A place for emerging businesses to list, promote and find opportunities " name="twitter:title">
+       <meta content="Profiles - A place for emerging businesses to list, promote and find opportunities where startups can showcase and emerge." name="twitter:description">
+        <meta content="https://d12fdm3gkm7ro6.cloudfront.net/assets/Profiles-Logo-3ae4cc71a0daae4abc599f26f70727b36a598a29fbbbe2abcc1921e0e141bd81.png" name="twitter:image">
+         <meta charset="utf-8">
+          <!-- Mobile Specific Metas
+      ================================================== -->
+          <meta content="IE=edge" http-equiv="X-UA-Compatible">
+           <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" name="viewport"/>
+           <!--320-->
+           <meta content="authenticity_token" name="csrf-param"/>
+           <meta content="lJksPsETqJ2K/gucPeAhJz6bf4DwQ9GkvR5cjdwxQkwJF0VbUoGIDNVsNFuA4q/UeePU5hWWlrxkMqk02AQr7w==" name="csrf-token"/>
+           <!-- CSS
+        ================================================== -->
+           <link data-turbolinks-track="true" href="https://d12fdm3gkm7ro6.cloudfront.net/assets/profile-839e8fd6c56ea3d1a2b478eeaea374dfe7c90160ba24ba939ec1a3a415998794.css" media="all" rel="stylesheet"/>
+           <link href="https://d12fdm3gkm7ro6.cloudfront.net/assets/favicon-c486930897d636212884551e1d37789f5579b56c1ba347f875a6c38fb18fd374.ico" rel="shortcut icon" type="image/x-icon"/>
+           <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+           <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+           <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+           <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-72887837-1', 'auto');
+  ga('send', 'pageview');
+           </script>
+           <!-- Begin comScore Tag -->
+           <script>
+            var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "18173739" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+           </script>
+           <noscript>
+            <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=18173739&amp;cv=2.0&amp;cj=1"/>
+           </noscript>
+           <!-- End comScore Tag -->
+           <script type="text/javascript">
+            window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
+        heap.load("465290205");
+           </script>
+           <!-- Facebook Pixel Code -->
+           <script>
+            !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '536691223168677');
+fbq('track', "PageView");
+           </script>
+           <noscript>
+            <img height="1" src="https://www.facebook.com/tr?id=536691223168677&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+           </noscript>
+           <!-- End Facebook Pixel Code -->
+           <script src="https://use.typekit.net/bcw1jlw.js">
+           </script>
+           <script>
+            try{Typekit.load({ async: true });}catch(e){}
+           </script>
+          </meta>
+         </meta>
+        </meta>
+       </meta>
+      </meta>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <div class="filter-container">
+   <div class="companies-making-impact container margin-top-60 font-regular">
+    <table cellspacing="0" class="datatables_table display responsive no-wrap" id="india_100_2016" width="100%">
+     <thead>
+      <tr>
+       <th data-priority="1">
+        YS Rank
+       </th>
+       <th data-priority="2">
+        Company
+       </th>
+       <th data-priority="4">
+        Name
+       </th>
+       <th data-priority="5">
+        Web Rank
+       </th>
+       <th data-priority="6">
+        Brand Rank
+       </th>
+       <th data-priority="7">
+        Mobile Rank
+       </th>
+       <th data-priority="8">
+        Funding Rank
+       </th>
+       <th data-priority="9">
+        Reader's Rank
+       </th>
+      </tr>
+     </thead>
+     <tbody>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        1
+       </td>
+       <td>
+        <a href="/organization/flipkart.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/49d485b6-4a5d-4567-9875-6a5e0b6d5cda/square_36eb84edab" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/flipkart.com" target="_blank">
+         Flipkart
+        </a>
+       </td>
+       <td>
+        1
+       </td>
+       <td>
+        1
+       </td>
+       <td>
+        1
+       </td>
+       <td>
+        1
+       </td>
+       <td>
+        6
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        2
+       </td>
+       <td>
+        <a href="/organization/snapdeal.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/c4cf7a7f-b476-42d0-80ba-7b22ca4259cc/square_a1d6e31e22" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/snapdeal.com" target="_blank">
+         SnapDeal
+        </a>
+       </td>
+       <td>
+        2
+       </td>
+       <td>
+        3
+       </td>
+       <td>
+        5
+       </td>
+       <td>
+        2
+       </td>
+       <td>
+        15
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        3
+       </td>
+       <td>
+        <a href="/organization/paytm.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/c2ea8c6b-469e-406b-8852-811d7c4dd417/square_e3b31e305b" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/paytm.com" target="_blank">
+         Paytm
+        </a>
+       </td>
+       <td>
+        3
+       </td>
+       <td>
+        9
+       </td>
+       <td>
+        3
+       </td>
+       <td>
+        3
+       </td>
+       <td>
+        1
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        4
+       </td>
+       <td>
+        <a href="/organization/hike.in" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/2d30f6ed-d172-4a69-a4e7-e07ed026cde9/square_93e1eebace" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/hike.in" target="_blank">
+         hike
+        </a>
+       </td>
+       <td>
+        65
+       </td>
+       <td>
+        24
+       </td>
+       <td>
+        2
+       </td>
+       <td>
+        5
+       </td>
+       <td>
+        21
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        5
+       </td>
+       <td>
+        <a href="/organization/bookmyshow.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/b480597b-1d6d-4008-ab15-0760819bac94/square_d6995993a2" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/bookmyshow.com" target="_blank">
+         BookMyShow
+        </a>
+       </td>
+       <td>
+        4
+       </td>
+       <td>
+        6
+       </td>
+       <td>
+        10
+       </td>
+       <td>
+        14
+       </td>
+       <td>
+        4
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        6
+       </td>
+       <td>
+        <a href="/organization/quikr.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/18eabf82-7764-45e7-90e1-a7522ac65513/square_42f4e991f2" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/quikr.com" target="_blank">
+         Quikr
+        </a>
+       </td>
+       <td>
+        7
+       </td>
+       <td>
+        12
+       </td>
+       <td>
+        8
+       </td>
+       <td>
+        9
+       </td>
+       <td>
+        20
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        7
+       </td>
+       <td>
+        <a href="/organization/shopclues.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/cae617ed-7f0f-489e-b74b-ee466d47777f/square_ef387724b1" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/shopclues.com" target="_blank">
+         Shopclues
+        </a>
+       </td>
+       <td>
+        5
+       </td>
+       <td>
+        11
+       </td>
+       <td>
+        12
+       </td>
+       <td>
+        13
+       </td>
+       <td>
+        36
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        8
+       </td>
+       <td>
+        <a href="/organization/olacabs.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/9a7ba200-0b70-4902-a624-315dbb30f38b/square_3d038a6775" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/olacabs.com" target="_blank">
+         Ola
+        </a>
+       </td>
+       <td>
+        34
+       </td>
+       <td>
+        23
+       </td>
+       <td>
+        7
+       </td>
+       <td>
+        4
+       </td>
+       <td>
+        5
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        9
+       </td>
+       <td>
+        <a href="/organization/zomato.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/ccd06dea-e4ad-4baf-8ad2-43e093993b2f/square_e93faf8a13" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/zomato.com" target="_blank">
+         Zomato
+        </a>
+       </td>
+       <td>
+        6
+       </td>
+       <td>
+        5
+       </td>
+       <td>
+        13
+       </td>
+       <td>
+        23
+       </td>
+       <td>
+        11
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        10
+       </td>
+       <td>
+        <a href="/organization/mobikwik.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/7029e5a3-a9ba-4228-8d31-2e891ba40c56/square_11d3a41042" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/mobikwik.com" target="_blank">
+         MobiKwik
+        </a>
+       </td>
+       <td>
+        16
+       </td>
+       <td>
+        18
+       </td>
+       <td>
+        9
+       </td>
+       <td>
+        10
+       </td>
+       <td>
+        13
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        11
+       </td>
+       <td>
+        <a href="/organization/dailyhunt.in" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/cab805bc-a816-49c9-b909-b89b26e9d2f5/square_ece59a50e5" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/dailyhunt.in" target="_blank">
+         DailyHunt
+        </a>
+       </td>
+       <td>
+        32
+       </td>
+       <td>
+        45
+       </td>
+       <td>
+        6
+       </td>
+       <td>
+        27
+       </td>
+       <td>
+        24
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        12
+       </td>
+       <td>
+        <a href="/organization/bigbasket.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/207bbb24-e5f4-4a3d-8823-3293845ca373/square_74318ac9eb" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/bigbasket.com" target="_blank">
+         Bigbasket.com
+        </a>
+       </td>
+       <td>
+        19
+       </td>
+       <td>
+        51
+       </td>
+       <td>
+        27
+       </td>
+       <td>
+        6
+       </td>
+       <td>
+        8
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        13
+       </td>
+       <td>
+        <a href="/organization/octro.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/a3e43a99-22e4-4d60-8a80-dad54144441c/square_9c99d2725a" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/octro.com" target="_blank">
+         Octro
+        </a>
+       </td>
+       <td>
+        79
+       </td>
+       <td>
+        77
+       </td>
+       <td>
+        4
+       </td>
+       <td>
+        77
+       </td>
+       <td>
+        46
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        14
+       </td>
+       <td>
+        <a href="/organization/oyorooms.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/0e0b3a21-21f0-44e7-9f85-699a3a2c79fd/square_32964f541e" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/oyorooms.com" target="_blank">
+         OYO
+        </a>
+       </td>
+       <td>
+        29
+       </td>
+       <td>
+        37
+       </td>
+       <td>
+        29
+       </td>
+       <td>
+        7
+       </td>
+       <td>
+        10
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        15
+       </td>
+       <td>
+        <a href="/organization/byjus.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/0d22adc7-a2e5-43cc-9fd9-174f9d4356d9/square_a83139dd57" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/byjus.com" target="_blank">
+         Byju's
+        </a>
+       </td>
+       <td>
+        45
+       </td>
+       <td>
+        25
+       </td>
+       <td>
+        21
+       </td>
+       <td>
+        8
+       </td>
+       <td>
+        9
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        16
+       </td>
+       <td>
+        <a href="/organization/lenskart.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/23bb7d18-73c5-4ab7-88eb-ec443b96211d/square_ae7cf53b45" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/lenskart.com" target="_blank">
+         Lenskart
+        </a>
+       </td>
+       <td>
+        25
+       </td>
+       <td>
+        16
+       </td>
+       <td>
+        30
+       </td>
+       <td>
+        11
+       </td>
+       <td>
+        19
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        17
+       </td>
+       <td>
+        <a href="/organization/yupptv.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/18864e88-9819-4498-a723-1f77048c9377/square_4dfd3c5c3b" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/yupptv.com" target="_blank">
+         YUPPTV
+        </a>
+       </td>
+       <td>
+        23
+       </td>
+       <td>
+        30
+       </td>
+       <td>
+        22
+       </td>
+       <td>
+        25
+       </td>
+       <td>
+        43
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        18
+       </td>
+       <td>
+        <a href="/organization/voonik.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/479e2272-4bde-4c6e-9fe4-19fbb1b6bbc8/square_194078297f" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/voonik.com" target="_blank">
+         Voonik
+        </a>
+       </td>
+       <td>
+        26
+       </td>
+       <td>
+        26
+       </td>
+       <td>
+        14
+       </td>
+       <td>
+        39
+       </td>
+       <td>
+        41
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        19
+       </td>
+       <td>
+        <a href="/organization/crowdfireapp.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/e951e55a-bad3-4a74-8045-1653b66eb8e3/square_34ec8ff670" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/crowdfireapp.com" target="_blank">
+         Crowdfire
+        </a>
+       </td>
+       <td>
+        15
+       </td>
+       <td>
+        4
+       </td>
+       <td>
+        16
+       </td>
+       <td>
+        79
+       </td>
+       <td>
+        40
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        20
+       </td>
+       <td>
+        <a href="/organization/tvfplay.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/fa39dc99-06b5-40c6-b520-083a5b30c29b/square_0a229af21d" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/tvfplay.com" target="_blank">
+         TVF Play
+        </a>
+       </td>
+       <td>
+        11
+       </td>
+       <td>
+        2
+       </td>
+       <td>
+        39
+       </td>
+       <td>
+        61
+       </td>
+       <td>
+        2
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        21
+       </td>
+       <td>
+        <a href="/organization/cardekho.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/dea2dd7c-eac7-4359-9838-a1e617f0dca2/square_1ec7565c52" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/cardekho.com" target="_blank">
+         CarDekho
+        </a>
+       </td>
+       <td>
+        18
+       </td>
+       <td>
+        21
+       </td>
+       <td>
+        25
+       </td>
+       <td>
+        32
+       </td>
+       <td>
+        35
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        22
+       </td>
+       <td>
+        <a href="/organization/grofers.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/af9a01fc-6c3f-4db2-85c2-e420893ede05/square_160d2ef7e2" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/grofers.com" target="_blank">
+         Grofers
+        </a>
+       </td>
+       <td>
+        40
+       </td>
+       <td>
+        55
+       </td>
+       <td>
+        33
+       </td>
+       <td>
+        18
+       </td>
+       <td>
+        23
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        23
+       </td>
+       <td>
+        <a href="/organization/pepperfry.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/925e49a6-2f25-4f18-a674-7ffbcb376a0e/square_eaf5fb63ab" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/pepperfry.com" target="_blank">
+         Pepperfry.com
+        </a>
+       </td>
+       <td>
+        21
+       </td>
+       <td>
+        33
+       </td>
+       <td>
+        51
+       </td>
+       <td>
+        15
+       </td>
+       <td>
+        25
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        24
+       </td>
+       <td>
+        <a href="/organization/droom.in" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/5c38f2fa-1c84-43e9-9a2b-7c5ef7bc0e34/square_dbd8fcbe20" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/droom.in" target="_blank">
+         Droom
+        </a>
+       </td>
+       <td>
+        60
+       </td>
+       <td>
+        10
+       </td>
+       <td>
+        43
+       </td>
+       <td>
+        21
+       </td>
+       <td>
+        45
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        25
+       </td>
+       <td>
+        <a href="/organization/craftsvilla.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/1ad1df0e-e51b-44dd-8bcf-4dd319215235/square_2315342ad5" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/craftsvilla.com" target="_blank">
+         Craftsvilla
+        </a>
+       </td>
+       <td>
+        35
+       </td>
+       <td>
+        8
+       </td>
+       <td>
+        36
+       </td>
+       <td>
+        44
+       </td>
+       <td>
+        36
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        26
+       </td>
+       <td>
+        <a href="/organization/cleartrip.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/f89e0348-a1dc-4787-b17c-01a67943a473/square_47c3a2a257" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/cleartrip.com" target="_blank">
+         Cleartrip
+        </a>
+       </td>
+       <td>
+        12
+       </td>
+       <td>
+        20
+       </td>
+       <td>
+        19
+       </td>
+       <td>
+        81
+       </td>
+       <td>
+        28
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        27
+       </td>
+       <td>
+        <a href="/organization/ccavenue.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/102cd26d-7a7f-4178-afa0-7deb3d8314e6/square_b868602000" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/ccavenue.com" target="_blank">
+         CCAvenues
+        </a>
+       </td>
+       <td>
+        8
+       </td>
+       <td>
+        77
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        16
+       </td>
+       <td>
+        25
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        28
+       </td>
+       <td>
+        <a href="/organization/practo.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/634ea0ec-49ba-4b05-8a9a-f63452c57ac5/square_495a196f17" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/practo.com" target="_blank">
+         Practo
+        </a>
+       </td>
+       <td>
+        30
+       </td>
+       <td>
+        38
+       </td>
+       <td>
+        38
+       </td>
+       <td>
+        26
+       </td>
+       <td>
+        22
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        29
+       </td>
+       <td>
+        <a href="/organization/limeroad.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/1dabe091-d2c4-4246-a12d-a51da4cf1471/square_5287a97f85" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/limeroad.com" target="_blank">
+         LimeRoad
+        </a>
+       </td>
+       <td>
+        27
+       </td>
+       <td>
+        17
+       </td>
+       <td>
+        26
+       </td>
+       <td>
+        52
+       </td>
+       <td>
+        38
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        30
+       </td>
+       <td>
+        <a href="/organization/inshorts.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/0a47e07c-6851-4739-b649-f48ee764d783/square_9dd97d3355" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/inshorts.com" target="_blank">
+         InShorts
+        </a>
+       </td>
+       <td>
+        61
+       </td>
+       <td>
+        22
+       </td>
+       <td>
+        15
+       </td>
+       <td>
+        62
+       </td>
+       <td>
+        7
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        31
+       </td>
+       <td>
+        <a href="/organization/swiggy.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/e47ae80b-11b0-4a02-9e1f-2e185e411d7f/square_32c060661a" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/swiggy.com" target="_blank">
+         Swiggy
+        </a>
+       </td>
+       <td>
+        20
+       </td>
+       <td>
+        56
+       </td>
+       <td>
+        40
+       </td>
+       <td>
+        27
+       </td>
+       <td>
+        7
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        32
+       </td>
+       <td>
+        <a href="/organization/freshdesk.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/a7ae3c90-88b4-4e0a-a9a5-d556880da830/square_6e03fe928d" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/freshdesk.com" target="_blank">
+         Freshdesk
+        </a>
+       </td>
+       <td>
+        14
+       </td>
+       <td>
+        57
+       </td>
+       <td>
+        63
+       </td>
+       <td>
+        24
+       </td>
+       <td>
+        24
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        33
+       </td>
+       <td>
+        <a href="/organization/moonfroglabs.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/9e46ad6d-9345-4e51-b9e2-de56910800b4/square_4a48a1915d" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/moonfroglabs.com" target="_blank">
+         Moonfrog Labs
+        </a>
+       </td>
+       <td>
+        77
+       </td>
+       <td>
+        72
+       </td>
+       <td>
+        11
+       </td>
+       <td>
+        69
+       </td>
+       <td>
+        45
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        34
+       </td>
+       <td>
+        <a href="/organization/ixigo.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/6a505216-974b-4172-9094-68467cba8b6f/square_fd976a2e6c" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/ixigo.com" target="_blank">
+         ixigo
+        </a>
+       </td>
+       <td>
+        28
+       </td>
+       <td>
+        19
+       </td>
+       <td>
+        18
+       </td>
+       <td>
+        82
+       </td>
+       <td>
+        35
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        35
+       </td>
+       <td>
+        <a href="/organization/urbanladder.com" target="_blank">
+         <img src="https://userfilescdn.yourstory.com/qtid6vio-Capture11.PNG" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/urbanladder.com" target="_blank">
+         Urban Ladder
+        </a>
+       </td>
+       <td>
+        37
+       </td>
+       <td>
+        34
+       </td>
+       <td>
+        47
+       </td>
+       <td>
+        29
+       </td>
+       <td>
+        34
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        36
+       </td>
+       <td>
+        <a href="/organization/nestaway.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/b5393862-3344-4cdc-9a0b-d4b50f4d3ead/square_78a650d91a" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/nestaway.com" target="_blank">
+         NestAway
+        </a>
+       </td>
+       <td>
+        53
+       </td>
+       <td>
+        43
+       </td>
+       <td>
+        56
+       </td>
+       <td>
+        17
+       </td>
+       <td>
+        21
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        37
+       </td>
+       <td>
+        <a href="/organization/yepme.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/192c9640-4697-4a50-ae4f-217317ce2f6c/square_daf2986ea7" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/yepme.com" target="_blank">
+         Yepme
+        </a>
+       </td>
+       <td>
+        42
+       </td>
+       <td>
+        7
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        32
+       </td>
+       <td>
+        44
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        38
+       </td>
+       <td>
+        <a href="/organization/playsimple.in" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/93342d68-384a-4b91-9dbe-9ef21b271e03/square_dd33eaef00" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/playsimple.in" target="_blank">
+         PlaySimple
+        </a>
+       </td>
+       <td>
+        79
+       </td>
+       <td>
+        32
+       </td>
+       <td>
+        17
+       </td>
+       <td>
+        73
+       </td>
+       <td>
+        46
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        39
+       </td>
+       <td>
+        <a href="/organization/1mg.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/76d3ff6f-6418-4afe-ba6f-fe10d5910c87/square_aadde887c5" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/1mg.com" target="_blank">
+         1mg
+        </a>
+       </td>
+       <td>
+        33
+       </td>
+       <td>
+        76
+       </td>
+       <td>
+        32
+       </td>
+       <td>
+        47
+       </td>
+       <td>
+        33
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        40
+       </td>
+       <td>
+        <a href="/organization/nykaa.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/ea495384-fcde-43c6-9d2d-e1afa13542d7/square_a4264672ee" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/nykaa.com" target="_blank">
+         Nykaa
+        </a>
+       </td>
+       <td>
+        24
+       </td>
+       <td>
+        15
+       </td>
+       <td>
+        50
+       </td>
+       <td>
+        49
+       </td>
+       <td>
+        34
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        41
+       </td>
+       <td>
+        <a href="/organization/faasos.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/6b87c963-a258-4e53-8e4d-29ceb5bfa848/square_6be64ec927" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/faasos.com" target="_blank">
+         Faaso's
+        </a>
+       </td>
+       <td>
+        62
+       </td>
+       <td>
+        49
+       </td>
+       <td>
+        31
+       </td>
+       <td>
+        45
+       </td>
+       <td>
+        22
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        42
+       </td>
+       <td>
+        <a href="/organization/zoomcar.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/2099cb45-da07-4bfc-b824-57ccd59d676f/square_dc47d42e6f" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/zoomcar.com" target="_blank">
+         Zoomcar
+        </a>
+       </td>
+       <td>
+        51
+       </td>
+       <td>
+        46
+       </td>
+       <td>
+        45
+       </td>
+       <td>
+        37
+       </td>
+       <td>
+        14
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        43
+       </td>
+       <td>
+        <a href="/organization/cartrade.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/4a854fc7-7bea-48f7-a8eb-e366c98c849f/square_d309ccf526" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/cartrade.com" target="_blank">
+         CarTrade
+        </a>
+       </td>
+       <td>
+        31
+       </td>
+       <td>
+        73
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        19
+       </td>
+       <td>
+        40
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        44
+       </td>
+       <td>
+        <a href="/organization/railyatri.in" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/a7c69428-8c4f-4668-9dc9-453a04c5ab19/square_037170e059" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/railyatri.in" target="_blank">
+         RailYatri
+        </a>
+       </td>
+       <td>
+        25
+       </td>
+       <td>
+        71
+       </td>
+       <td>
+        26
+       </td>
+       <td>
+        75
+       </td>
+       <td>
+        39
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        45
+       </td>
+       <td>
+        <a href="/organization/rivigo.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/76de9d6c-7feb-407b-b9c8-0d296ea04ad7/square_b157805702" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/rivigo.com" target="_blank">
+         Rivigo
+        </a>
+       </td>
+       <td>
+        74
+       </td>
+       <td>
+        77
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        12
+       </td>
+       <td>
+        41
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        46
+       </td>
+       <td>
+        <a href="/organization/bankbazaar.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/892b3008-86f8-4404-a0c4-01131f1c8952/square_036cd07f04" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/bankbazaar.com" target="_blank">
+         Bank Bazaar
+        </a>
+       </td>
+       <td>
+        17
+       </td>
+       <td>
+        31
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        40
+       </td>
+       <td>
+        43
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        47
+       </td>
+       <td>
+        <a href="/organization/onlinetyari.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/dc70565b-b02b-46ee-bb3b-b0b43b6dc18a/square_fe896b235e" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/onlinetyari.com" target="_blank">
+         OnlineTyari
+        </a>
+       </td>
+       <td>
+        39
+       </td>
+       <td>
+        59
+       </td>
+       <td>
+        23
+       </td>
+       <td>
+        78
+       </td>
+       <td>
+        16
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        48
+       </td>
+       <td>
+        <a href="/organization/scoopwhoop.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/0249a22f-b2a8-401e-84e4-90d9b8de6c4d/square_5d7ca6f818" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/scoopwhoop.com" target="_blank">
+         ScoopWhoop
+        </a>
+       </td>
+       <td>
+        13
+       </td>
+       <td>
+        13
+       </td>
+       <td>
+        57
+       </td>
+       <td>
+        76
+       </td>
+       <td>
+        17
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        49
+       </td>
+       <td>
+        <a href="/organization/healthkart.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/d8453f32-9781-4f68-ac35-f0e826d96f6f/square_47d4e582da" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/healthkart.com" target="_blank">
+         Healthkart
+        </a>
+       </td>
+       <td>
+        36
+       </td>
+       <td>
+        29
+       </td>
+       <td>
+        49
+       </td>
+       <td>
+        59
+       </td>
+       <td>
+        40
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        50
+       </td>
+       <td>
+        <a href="/organization/ecomexpress.in" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/256f238d-0d65-4193-96ec-044ef76287d6/square_be371c3303" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/ecomexpress.in" target="_blank">
+         Ecom Express
+        </a>
+       </td>
+       <td>
+        59
+       </td>
+       <td>
+        77
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        20
+       </td>
+       <td>
+        44
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        51
+       </td>
+       <td>
+        <a href="/organization/simplilearn.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/8b74196e-4bce-40fd-a8ad-79ea1050781c/square_c0d5af6042" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/simplilearn.com" target="_blank">
+         Simplilearn
+        </a>
+       </td>
+       <td>
+        49
+       </td>
+       <td>
+        47
+       </td>
+       <td>
+        63
+       </td>
+       <td>
+        33
+       </td>
+       <td>
+        37
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        52
+       </td>
+       <td>
+        <a href="/organization/jugnoo.in" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/eae0cc3a-115f-4dc8-89b5-6bcf0c86f679/square_9371c497c6" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/jugnoo.in" target="_blank">
+         JUGNOO
+        </a>
+       </td>
+       <td>
+        70
+       </td>
+       <td>
+        74
+       </td>
+       <td>
+        35
+       </td>
+       <td>
+        50
+       </td>
+       <td>
+        29
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        53
+       </td>
+       <td>
+        <a href="/organization/incred.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/e7454040-17db-44ad-bee6-f81b21c08d48/square_2669e7d40d" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/incred.com" target="_blank">
+         InCred Finance
+        </a>
+       </td>
+       <td>
+        79
+       </td>
+       <td>
+        77
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        15
+       </td>
+       <td>
+        46
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        54
+       </td>
+       <td>
+        <a href="/organization/tapzo.com" target="_blank">
+         <img src="https://userfilescdn.yourstory.com/9akjqykg-15032217_342769416091222_1174917180838467574_n.jpg" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/tapzo.com" target="_blank">
+         Tapzo (formerly Helpchat)
+        </a>
+       </td>
+       <td>
+        79
+       </td>
+       <td>
+        77
+       </td>
+       <td>
+        24
+       </td>
+       <td>
+        66
+       </td>
+       <td>
+        35
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        55
+       </td>
+       <td>
+        <a href="/organization/zivame.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/609d0072-8b63-46d2-883e-48ac88e20d48/square_efd8b940eb" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/zivame.com" target="_blank">
+         Zivame
+        </a>
+       </td>
+       <td>
+        43
+       </td>
+       <td>
+        35
+       </td>
+       <td>
+        54
+       </td>
+       <td>
+        51
+       </td>
+       <td>
+        40
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        56
+       </td>
+       <td>
+        <a href="/organization/mysmartprice.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/b5bafacd-e022-4453-9c90-09c42a8a7672/square_6c6ac2a28b" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/mysmartprice.com" target="_blank">
+         MySmartPrice
+        </a>
+       </td>
+       <td>
+        9
+       </td>
+       <td>
+        36
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        73
+       </td>
+       <td>
+        30
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        57
+       </td>
+       <td>
+        <a href="/organization/druva.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/c145a7fd-5e73-4b64-ae7a-f58ac5aa2825/square_139e1508e0" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/druva.com" target="_blank">
+         Druva
+        </a>
+       </td>
+       <td>
+        73
+       </td>
+       <td>
+        65
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        22
+       </td>
+       <td>
+        44
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        58
+       </td>
+       <td>
+        <a href="/organization/hopscotch.in" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/62cef95e-81e9-429b-8ae4-8e2414c45ee1/square_4ad5061d62" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/hopscotch.in" target="_blank">
+         Hopscotch
+        </a>
+       </td>
+       <td>
+        59
+       </td>
+       <td>
+        27
+       </td>
+       <td>
+        51
+       </td>
+       <td>
+        48
+       </td>
+       <td>
+        43
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        59
+       </td>
+       <td>
+        <a href="/organization/roposo.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/261c29b1-749a-4640-90c2-4ee25448fd77/square_e9160cd4ba" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/roposo.com" target="_blank">
+         Roposo
+        </a>
+       </td>
+       <td>
+        66
+       </td>
+       <td>
+        50
+       </td>
+       <td>
+        43
+       </td>
+       <td>
+        54
+       </td>
+       <td>
+        19
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        60
+       </td>
+       <td>
+        <a href="/organization/delhivery.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/4bc95480-f57b-4a62-9c1d-d6865c6ed99e/square_c547cd414e" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/delhivery.com" target="_blank">
+         Delhivery
+        </a>
+       </td>
+       <td>
+        50
+       </td>
+       <td>
+        70
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        28
+       </td>
+       <td>
+        20
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        61
+       </td>
+       <td>
+        <a href="/organization/bobbleapp.me" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/36422d74-7d0c-4b76-81a4-6891155be829/square_f6e72e6179" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/bobbleapp.me" target="_blank">
+         Bobble App
+        </a>
+       </td>
+       <td>
+        79
+       </td>
+       <td>
+        51
+       </td>
+       <td>
+        20
+       </td>
+       <td>
+        82
+       </td>
+       <td>
+        41
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        62
+       </td>
+       <td>
+        <a href="/organization/urbanclap.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/f08a42b7-9a84-4ef5-a2f3-06fe05c03b0e/square_a6af672c46" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/urbanclap.com" target="_blank">
+         UrbanClap
+        </a>
+       </td>
+       <td>
+        59
+       </td>
+       <td>
+        53
+       </td>
+       <td>
+        48
+       </td>
+       <td>
+        53
+       </td>
+       <td>
+        18
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        63
+       </td>
+       <td>
+        <a href="/organization/stayzilla.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/f5c87314-94d9-4348-ac82-bf6e18ef5575/square_5f3d848252" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/stayzilla.com" target="_blank">
+         Stayzilla
+        </a>
+       </td>
+       <td>
+        55
+       </td>
+       <td>
+        39
+       </td>
+       <td>
+        61
+       </td>
+       <td>
+        43
+       </td>
+       <td>
+        38
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        64
+       </td>
+       <td>
+        <a href="/organization/lybrate.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/9f048d58-87b6-4d72-82ab-2c1a8e471f70/square_2688d760ce" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/lybrate.com" target="_blank">
+         Lybrate
+        </a>
+       </td>
+       <td>
+        58
+       </td>
+       <td>
+        60
+       </td>
+       <td>
+        37
+       </td>
+       <td>
+        72
+       </td>
+       <td>
+        42
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        65
+       </td>
+       <td>
+        <a href="/organization/testbook.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/4abc3b9f-b7ad-4fad-bfd4-3ccee5803e8d/square_5ffbf2f00a" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/testbook.com" target="_blank">
+         Testbook.com
+        </a>
+       </td>
+       <td>
+        22
+       </td>
+       <td>
+        48
+       </td>
+       <td>
+        44
+       </td>
+       <td>
+        80
+       </td>
+       <td>
+        41
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        66
+       </td>
+       <td>
+        <a href="/organization/furlenco.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/31a7de0a-353c-40a0-b7b4-139e0103d525/square_2ec261bb55" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/furlenco.com" target="_blank">
+         Furlenco
+        </a>
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        61
+       </td>
+       <td>
+        64
+       </td>
+       <td>
+        34
+       </td>
+       <td>
+        26
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        67
+       </td>
+       <td>
+        <a href="/organization/lendingkart.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/4a880143-e2cf-4f34-b18e-6ffef13907c2/square_ad5feca799" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/lendingkart.com" target="_blank">
+         Lendingkart
+        </a>
+       </td>
+       <td>
+        66
+       </td>
+       <td>
+        64
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        30
+       </td>
+       <td>
+        41
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        68
+       </td>
+       <td>
+        <a href="/organization/purplle.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/f812880d-1eb7-4f19-898b-77cad4f7f020/square_8582e79d2e" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/purplle.com" target="_blank">
+         Purplle
+        </a>
+       </td>
+       <td>
+        46
+       </td>
+       <td>
+        43
+       </td>
+       <td>
+        52
+       </td>
+       <td>
+        65
+       </td>
+       <td>
+        31
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        69
+       </td>
+       <td>
+        <a href="/organization/sharechat.co" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/e28dc1d0-3cd5-47dd-959f-c0455dc8afa0/square_08b36bb3a5" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/sharechat.co" target="_blank">
+         ShareChat
+        </a>
+       </td>
+       <td>
+        79
+       </td>
+       <td>
+        69
+       </td>
+       <td>
+        34
+       </td>
+       <td>
+        70
+       </td>
+       <td>
+        44
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        70
+       </td>
+       <td>
+        <a href="/organization/netmeds.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/dd10f5b6-5bd2-4af4-b7bb-175e453633cf/square_79bf84aed8" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/netmeds.com" target="_blank">
+         Netmeds.com
+        </a>
+       </td>
+       <td>
+        47
+       </td>
+       <td>
+        44
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        45
+       </td>
+       <td>
+        39
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        71
+       </td>
+       <td>
+        <a href="/organization/policybazaar.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/7e704b5d-bfed-4161-91ac-da23a6ca44cf/square_e53a7b31a5" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/policybazaar.com" target="_blank">
+         PolicyBazaar
+        </a>
+       </td>
+       <td>
+        41
+       </td>
+       <td>
+        61
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        45
+       </td>
+       <td>
+        27
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        72
+       </td>
+       <td>
+        <a href="/organization/toppr.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/0a9204c5-8da7-4683-bb9f-fd67a3a4934d/square_f9d96251c9" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/toppr.com" target="_blank">
+         Toppr
+        </a>
+       </td>
+       <td>
+        52
+       </td>
+       <td>
+        76
+       </td>
+       <td>
+        42
+       </td>
+       <td>
+        71
+       </td>
+       <td>
+        45
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        73
+       </td>
+       <td>
+        <a href="/organization/knowlarity.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/8614be65-5502-414f-afaa-356626350d5e/square_ca13ea76a2" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/knowlarity.com" target="_blank">
+         Knowlarity
+        </a>
+       </td>
+       <td>
+        60
+       </td>
+       <td>
+        62
+       </td>
+       <td>
+        65
+       </td>
+       <td>
+        41
+       </td>
+       <td>
+        37
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        74
+       </td>
+       <td>
+        <a href="/organization/helpshift.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/88e73519-312e-4a71-9a24-269f3cfbb3ef/square_5d4e2d6d98" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/helpshift.com" target="_blank">
+         Helpshift
+        </a>
+       </td>
+       <td>
+        56
+       </td>
+       <td>
+        70
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        38
+       </td>
+       <td>
+        45
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        75
+       </td>
+       <td>
+        <a href="/organization/stalkbuylove.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/f341c2ff-dc00-449c-bea0-52341362180a/square_b01d56d90d" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/stalkbuylove.com" target="_blank">
+         Stalkbuylove
+        </a>
+       </td>
+       <td>
+        44
+       </td>
+       <td>
+        26
+       </td>
+       <td>
+        60
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        41
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        76
+       </td>
+       <td>
+        <a href="/organization/crownit.in" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/a8459e72-4660-4ceb-a5e2-267055bf233c/square_554e19bf3b" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/crownit.in" target="_blank">
+         Crownit
+        </a>
+       </td>
+       <td>
+        78
+       </td>
+       <td>
+        74
+       </td>
+       <td>
+        46
+       </td>
+       <td>
+        56
+       </td>
+       <td>
+        30
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        77
+       </td>
+       <td>
+        <a href="/organization/zopper.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/7e782aa8-ffd9-4306-be76-276c74d21030/square_b4c6aa4726" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/zopper.com" target="_blank">
+         Zopper
+        </a>
+       </td>
+       <td>
+        68
+       </td>
+       <td>
+        75
+       </td>
+       <td>
+        44
+       </td>
+       <td>
+        63
+       </td>
+       <td>
+        36
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        78
+       </td>
+       <td>
+        <a href="/organization/travelyaari.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/b73d356e-281a-44f2-b225-5a1ef5ea9f4e/square_7720c4ee2b" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/travelyaari.com" target="_blank">
+         TravelYaari
+        </a>
+       </td>
+       <td>
+        54
+       </td>
+       <td>
+        40
+       </td>
+       <td>
+        58
+       </td>
+       <td>
+        61
+       </td>
+       <td>
+        46
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        79
+       </td>
+       <td>
+        <a href="/organization/atherenergy.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/12d76fbe-80c5-494f-b193-8484c653e4f0/square_358afba5d6" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/atherenergy.com" target="_blank">
+         Ather Energy
+        </a>
+       </td>
+       <td>
+        72
+       </td>
+       <td>
+        68
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        35
+       </td>
+       <td>
+        32
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        80
+       </td>
+       <td>
+        <a href="/organization/grabon.in" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/cc0157b1-12f9-48d1-b909-854723fdb471/square_8f9888faec" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/grabon.in" target="_blank">
+         GrabOn
+        </a>
+       </td>
+       <td>
+        10
+       </td>
+       <td>
+        41
+       </td>
+       <td>
+        66
+       </td>
+       <td>
+        83
+       </td>
+       <td>
+        3
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        81
+       </td>
+       <td>
+        <a href="/organization/neogrowth.in" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/851dd03b-31b0-4d3e-8342-43753f06dbbf/square_03aeb2ea5d" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/neogrowth.in" target="_blank">
+         Neogrowth
+        </a>
+       </td>
+       <td>
+        78
+       </td>
+       <td>
+        77
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        31
+       </td>
+       <td>
+        36
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        82
+       </td>
+       <td>
+        <a href="/organization/popxo.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/fc4c767a-1ad5-47e4-89c2-14eb7753fe66/square_a768fe43e4" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/popxo.com" target="_blank">
+         POPxo
+        </a>
+       </td>
+       <td>
+        38
+       </td>
+       <td>
+        14
+       </td>
+       <td>
+        53
+       </td>
+       <td>
+        80
+       </td>
+       <td>
+        32
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        83
+       </td>
+       <td>
+        <a href="/organization/purolife.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/2964802e-df9e-402b-b2e5-bf9a0cce4958/square_e4edb25cd4" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/purolife.com" target="_blank">
+         Puro Wellness
+        </a>
+       </td>
+       <td>
+        79
+       </td>
+       <td>
+        77
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        29
+       </td>
+       <td>
+        47
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        84
+       </td>
+       <td>
+        <a href="/organization/capitalfloat.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/12b87a4c-95a7-4f80-b897-997c130c8979/square_133965a53e" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/capitalfloat.com" target="_blank">
+         Capital Float
+        </a>
+       </td>
+       <td>
+        78
+       </td>
+       <td>
+        63
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        36
+       </td>
+       <td>
+        45
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        85
+       </td>
+       <td>
+        <a href="/organization/livfame.com" target="_blank">
+         <img src="https://userfilescdn.yourstory.com/23yovkxz-14c1145.png" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/livfame.com" target="_blank">
+         #fame
+        </a>
+       </td>
+       <td>
+        79
+       </td>
+       <td>
+        77
+       </td>
+       <td>
+        35
+       </td>
+       <td>
+        74
+       </td>
+       <td>
+        47
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        86
+       </td>
+       <td>
+        <a href="/organization/coldex.in" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/c7e7e131-2a3d-4f87-8512-075eab7107b1/square_3f4bab1b52" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/coldex.in" target="_blank">
+         ColdEX Logistics
+        </a>
+       </td>
+       <td>
+        79
+       </td>
+       <td>
+        77
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        30
+       </td>
+       <td>
+        47
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        87
+       </td>
+       <td>
+        <a href="/organization/livspace.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/afd12a61-c260-4bb6-9f03-48766632fd30/square_209bc668a5" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/livspace.com" target="_blank">
+         Livspace
+        </a>
+       </td>
+       <td>
+        71
+       </td>
+       <td>
+        32
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        46
+       </td>
+       <td>
+        45
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        88
+       </td>
+       <td>
+        <a href="/organization/freshmenu.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/8c57023e-e98b-4b76-b991-a013025172a7/square_52c7ec7092" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/freshmenu.com" target="_blank">
+         FreshMenu
+        </a>
+       </td>
+       <td>
+        57
+       </td>
+       <td>
+        54
+       </td>
+       <td>
+        55
+       </td>
+       <td>
+        64
+       </td>
+       <td>
+        12
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        89
+       </td>
+       <td>
+        <a href="/organization/qubole.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/9a174c0b-4677-4213-b3b2-0ec49b3e2dd2/square_1de4e933e9" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/qubole.com" target="_blank">
+         Qubole
+        </a>
+       </td>
+       <td>
+        76
+       </td>
+       <td>
+        77
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        34
+       </td>
+       <td>
+        47
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        90
+       </td>
+       <td>
+        <a href="/organization/maya.live" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/75ff9158-94ae-43bf-a320-8097b86992e4/square_f8fdb6f525" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/maya.live" target="_blank">
+         Maya
+        </a>
+       </td>
+       <td>
+        79
+       </td>
+       <td>
+        72
+       </td>
+       <td>
+        28
+       </td>
+       <td>
+        81
+       </td>
+       <td>
+        47
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        91
+       </td>
+       <td>
+        <a href="/organization/caratlane.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/4dc4f307-0912-4dfa-a644-1ca109fbbd23/square_0bf608eb3b" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/caratlane.com" target="_blank">
+         CaratLane.com
+        </a>
+       </td>
+       <td>
+        51
+       </td>
+       <td>
+        74
+       </td>
+       <td>
+        59
+       </td>
+       <td>
+        57
+       </td>
+       <td>
+        38
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        92
+       </td>
+       <td>
+        <a href="/organization/homelane.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/8c6544bb-4ee3-41ed-9791-bb45161d2bc8/square_c617318cfa" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/homelane.com" target="_blank">
+         homelane
+        </a>
+       </td>
+       <td>
+        69
+       </td>
+       <td>
+        51
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        42
+       </td>
+       <td>
+        46
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        93
+       </td>
+       <td>
+        <a href="/organization/nobroker.in" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/1ffb0397-ee55-4758-937b-90796cb1b3a5/square_1b119efa36" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/nobroker.in" target="_blank">
+         NoBroker
+        </a>
+       </td>
+       <td>
+        48
+       </td>
+       <td>
+        42
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        58
+       </td>
+       <td>
+        36
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        94
+       </td>
+       <td>
+        <a href="/organization/portea.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/3c54b42c-15a3-4b8a-8a9a-70a613a2fa05/square_651d8c130b" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/portea.com" target="_blank">
+         Portea Medical
+        </a>
+       </td>
+       <td>
+        68
+       </td>
+       <td>
+        28
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        52
+       </td>
+       <td>
+        42
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        95
+       </td>
+       <td>
+        <a href="/organization/housejoy.in" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/51378891-296a-4864-af10-33193bec41c3/square_fed80880af" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/housejoy.in" target="_blank">
+         Housejoy
+        </a>
+       </td>
+       <td>
+        63
+       </td>
+       <td>
+        76
+       </td>
+       <td>
+        52
+       </td>
+       <td>
+        60
+       </td>
+       <td>
+        39
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        96
+       </td>
+       <td>
+        <a href="/organization/box8.in" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/dd6ff004-ac91-4a18-aedf-b0f24feee681/square_1e018beec2" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/box8.in" target="_blank">
+         Box8
+        </a>
+       </td>
+       <td>
+        63
+       </td>
+       <td>
+        67
+       </td>
+       <td>
+        51
+       </td>
+       <td>
+        63
+       </td>
+       <td>
+        25
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        97
+       </td>
+       <td>
+        <a href="/organization/chillr.in" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/8e01224e-cc41-4dd0-a4f7-4418bbb8a9c3/square_3b466aae7f" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/chillr.in" target="_blank">
+         Chillr
+        </a>
+       </td>
+       <td>
+        75
+       </td>
+       <td>
+        52
+       </td>
+       <td>
+        41
+       </td>
+       <td>
+        78
+       </td>
+       <td>
+        32
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        98
+       </td>
+       <td>
+        <a href="/organization/mswipe.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/2b44c02a-750a-4aa3-949b-74f7ccc24d8b/square_bb962f8022" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/mswipe.com" target="_blank">
+         Mswipe Technologies
+        </a>
+       </td>
+       <td>
+        64
+       </td>
+       <td>
+        66
+       </td>
+       <td>
+        62
+       </td>
+       <td>
+        55
+       </td>
+       <td>
+        38
+       </td>
+      </tr>
+      <tr>
+       <td style="width:20px;text-align:right;background-color:#E6EaF9;font-style:1.2em">
+        99
+       </td>
+       <td>
+        <a href="/organization/flyrobe.com" target="_blank">
+         <img src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/529c045b-0eb0-4e90-b5a2-6a52ccdac9d6/square_05e392edbc" style="width:60px;margin:0 auto">
+         </img>
+        </a>
+       </td>
+       <td>
+        <a href="/organization/flyrobe.com" target="_blank">
+         Flyrobe
+        </a>
+       </td>
+       <td>
+        59
+       </td>
+       <td>
+        58
+       </td>
+       <td>
+        56
+       </td>
+       <td>
+        68
+       </td>
+       <td>
+        44
+       </td>
+      </tr>
+     </tbody>
+    </table>
+   </div>
+  </div>
+  <div class="clearfix">
+  </div>
+  <script data-turbolinks-track="true" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/embed-9c3079a918374c6228b9668b2d916ba111f95cb31a0b1063fe7d1ffde20c215d.js">
+  </script>
+ </body>
+</html>

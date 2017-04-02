@@ -1,0 +1,1688 @@
+<!DOCTYPE html>
+<!--
+    Name: YourStory Profile Home
+    Date: 20th April, 2016    
+-->
+<html>
+ <head>
+  <title>
+   Flipkart on YourStory
+  </title>
+  <meta charset="utf-8">
+   <meta content="Yourstory, Profiles, Startups, Companies, Investors, Organizations, Founders" name="keywords"/>
+   <meta content="Flipkart is India?s leading e-commerce marketplace offering over 30 million products cross 70+ categories including Books, Media, Consumer Electronics and Lifestyle." name="description"/>
+   <meta content="YourStory" name="author"/>
+   <meta content="YourStory 2016" name="copyright"/>
+   <meta content="website" property="og:type"/>
+   <meta content="http://profiles.yourstory.com/organization/flipkart.com" property="og:url"/>
+   <meta content="Flipkart on YourStory" property="og:title"/>
+   <meta content="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/49d485b6-4a5d-4567-9875-6a5e0b6d5cda/square_36eb84edab" property="og:image"/>
+   <meta content="Flipkart is India?s leading e-commerce marketplace offering over 30 million products cross 70+ categories including Books, Media, Consumer Electronics and Lifestyle." property="og:description"/>
+   <meta content="summary" name="twitter:card">
+    <meta content="@YourStoryCo" name="twitter:site">
+     <meta content="@YourStoryCo" name="twitter:creator">
+      <meta content="Flipkart on YourStory" name="twitter:title">
+       <meta content="Flipkart is India?s leading e-commerce marketplace offering over 30 million products cross 70+ categories including Books, Media, Consumer Electronics and Lifestyle." name="twitter:description">
+        <meta content="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/49d485b6-4a5d-4567-9875-6a5e0b6d5cda/square_36eb84edab" name="twitter:image">
+         <meta charset="utf-8">
+          <!-- Mobile Specific Metas
+      ================================================== -->
+          <meta content="IE=edge" http-equiv="X-UA-Compatible">
+           <meta content="width=device-width, initial-scale=1" name="viewport">
+            <meta content="authenticity_token" name="csrf-param"/>
+            <meta content="tcrHSyDi4ARH5SHceESBvuyRbW1P8LbsHHALS1F/kDhlcGOA/bJfIsQJyXRh3XKhCdBSTMhxfWOwJTaQRbHo6A==" name="csrf-token"/>
+            <link data-turbolinks-track="true" href="https://d12fdm3gkm7ro6.cloudfront.net/assets/profile-839e8fd6c56ea3d1a2b478eeaea374dfe7c90160ba24ba939ec1a3a415998794.css" media="all" rel="stylesheet"/>
+            <script data-turbolinks-track="true" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/organizations-01687a3599c50efa1f3ae0b5ae900f702ea90cf3f60371e82a6d26926c528117.js">
+            </script>
+            <link href="https://d12fdm3gkm7ro6.cloudfront.net/assets/favicon-c486930897d636212884551e1d37789f5579b56c1ba347f875a6c38fb18fd374.ico" rel="shortcut icon" type="image/x-icon"/>
+            <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+            <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+            <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+            <script src="https://use.typekit.net/bcw1jlw.js">
+            </script>
+            <script>
+             try{Typekit.load({ async: false });}catch(e){}
+            </script>
+            <script>
+             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-72887837-1', 'auto');
+  ga('send', 'pageview');
+            </script>
+            <!-- Begin comScore Tag -->
+            <script>
+             var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "18173739" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+            </script>
+            <noscript>
+             <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=18173739&amp;cv=2.0&amp;cj=1"/>
+            </noscript>
+            <!-- End comScore Tag -->
+            <script type="text/javascript">
+             window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
+        heap.load("465290205");
+            </script>
+            <!-- Facebook Pixel Code -->
+            <script>
+             !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '536691223168677');
+fbq('track', "PageView");
+            </script>
+            <noscript>
+             <img height="1" src="https://www.facebook.com/tr?id=536691223168677&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+            </noscript>
+            <!-- End Facebook Pixel Code -->
+           </meta>
+          </meta>
+         </meta>
+        </meta>
+       </meta>
+      </meta>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body data-brand-name="Flipkart" data-can-edit-storyline="false" data-domain="flipkart.com" data-logged-in="false">
+  <div id="fb-root">
+  </div>
+  <script>
+   (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_IN/sdk.js#xfbml=1&version=v2.6&appId=252967394737645";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script>
+  <!-- Navigation Starts -->
+  <nav class="navbar navbar-default">
+   <!-- Brand and toggle get grouped for better mobile display -->
+   <div class="navbar-header">
+    <a href="/search">
+     <i class="glyphicon glyphicon-search search-ico-main visible-xs mobile-search-btn">
+     </i>
+    </a>
+    <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#ys-navbar-collapse-1" data-toggle="collapse" type="button">
+     <span class="sr-only">
+      Toggle navigation
+     </span>
+     <span class="icon-bar">
+     </span>
+     <span class="icon-bar">
+     </span>
+     <span class="icon-bar">
+     </span>
+    </button>
+    <!--<button type="submit" class="btn btn-default featured lys-btn-small visible-xs">List Your Startup</button>-->
+    <a class="navbar-brand" href="/" target="_self">
+     <img alt="YS PROFILES" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/Profiles-Logo-3ae4cc71a0daae4abc599f26f70727b36a598a29fbbbe2abcc1921e0e141bd81.png"/>
+    </a>
+    <div class="arrow-up hidden">
+     <img alt="Up Arrow" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/uparrow-8dcc0dfeab304ed37e7d044152bec19467e57479286ee930997040b532099dfb.png"/>
+    </div>
+   </div>
+   <!-- Collect the nav links, forms, and other content for toggling -->
+   <div class="collapse navbar-collapse" id="ys-navbar-collapse-1">
+    <ul class="nav navbar-nav">
+     <li class="active">
+      <a href="/home#/">
+       My Feed
+      </a>
+     </li>
+     <!--<li><a href="#">Investors</a></li>
+                        <li><a href="#">Launchpad</a></li>
+                        <li><a href="#">Research+</a></li>
+                        -->
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+     <li>
+      <a class="lys-btn" href="/create/organization" target="_self">
+       <button class="btn btn-default featured" type="submit">
+        List Your Company
+       </button>
+      </a>
+     </li>
+     <li>
+      <a href="/login" target="_self">
+       Login
+      </a>
+     </li>
+     <li class="visible-xs">
+      <a href="/create/organization">
+       List Your Company
+      </a>
+     </li>
+     <li class="visible-lg visible-md">
+      <i class="glyphicon glyphicon-search master-search" style="margin-top:25px">
+      </i>
+     </li>
+    </ul>
+   </div>
+   <!-- /.navbar-collapse -->
+  </nav>
+  <div class="search-holder-out visible-lg visible-md">
+   <form action="/search" class="searchFormMain" method="GET">
+    <i class="glyphicon glyphicon-search search-ico-main">
+    </i>
+    <input name="type" type="hidden" value="organization"/>
+    <input class="search-box-main font-light" id="profileSearchOut" name="query" placeholder="Search everything companies, investors, sectors, founders..." type="text">
+    </input>
+   </form>
+  </div>
+  <!-- Navigation Ends -->
+  <!--Profiles-->
+  <div class="container margin-top-30 profile-container no-padding">
+   <div class="profile-info col-lg-7 col-md-12 col-sm-10 xxs">
+    <div class="profile-image-holder col-lg-3 col-md-3 col-sm-5 col-xs-3 no-padding">
+     <img alt="Square 36eb84edab" class="img-rounded img-responsive" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/49d485b6-4a5d-4567-9875-6a5e0b6d5cda/square_36eb84edab"/>
+    </div>
+    <div class="profile-info col-lg-8 col-md-8 col-sm-7 col-xs-9 no-padding">
+     <div class="profile-name font-light no-margin">
+      <span class="profile-company-name margin-right-45">
+       Flipkart
+      </span>
+      <i class="fund-ico profile-fund" data-original-title="Storyline section of this profile is managed by the founder of this company" data-placement="bottom" data-toggle="tooltip" title="">
+      </i>
+     </div>
+     <div class="clearfix">
+     </div>
+     <div class="profile-location font-light font-17">
+      Bangalore, Karnataka, India
+     </div>
+     <div class="profile-tags">
+      <a href="/search?type=organization§ors=ecommerce">
+       <span class="profile-tag">
+        Ecommerce
+       </span>
+      </a>
+     </div>
+     <div class="profile-website-link font-light font-gray-two">
+      <i aria-hidden="true" class="fa fa-share">
+      </i>
+      <a href="http://flipkart.com" target="_blank">
+       flipkart.com
+      </a>
+     </div>
+     <div class="profile-website-link font-light font-gray-two">
+      Flipkart is India?s leading e-commerce marketplace offering over 30 million products cross 70+ categories including Books, Media, Consumer Electronics and Lifestyle.
+     </div>
+     <!--
+                <div class="rank-holder font-light">
+                    <i class="share-rank"></i>
+                    <span class="rank-amount">7 <i class="rank-up"></i> </span>
+                    <span class="font-gray-nine rank-text">(rank overall)</span>
+                </div>
+                -->
+    </div>
+   </div>
+   <span class="total-profile-heart font-grey-nine">
+    <span class="hearts_count font-light font-12 heart-count heart-count-big" data-organization-domain-name="flipkart.com" data-organization-uuid="616a3b66-81d4-423b-915e-396dd34b2321">
+    </span>
+    <span class="heartable heart-big" data-organization-domain-name="flipkart.com" id="616a3b66-81d4-423b-915e-396dd34b2321" rel="unlike">
+    </span>
+    <!--
+        <span id="616a3b66-81d4-423b-915e-396dd34b2321"class="heart-big"  rel="like"></span>
+        -->
+   </span>
+   <!-- <span class="total-views font-grey-nine font-light">1195 Total Views</span> -->
+  </div>
+  <!--Profiles-->
+  <div class="clearfix">
+  </div>
+  <div class="menu-filler">
+  </div>
+  <!--Profile menu-->
+  <div class="profile-menu-holder border-top border-bottom margin-top-30 hidden-xs">
+   <div class="container profile-tabs-menu font-light">
+    <li>
+     <a class="profile-tabs-menu-active" href="/organization/flipkart.com" id="about" tag="about">
+      About
+     </a>
+    </li>
+    <li>
+     <a class="" href="/organization/flipkart.com/storyline" id="timeline" tag="time-line">
+      Storyline
+     </a>
+    </li>
+    <li>
+     <a class="" href="/organization/flipkart.com/investments" id="investment" tag="investment">
+      Investments
+     </a>
+    </li>
+    <li>
+     <a class="" href="/organization/flipkart.com/news" id="news" tag="news">
+      News
+     </a>
+    </li>
+   </div>
+  </div>
+  <div class="profile-spacer visible-xs margin-top-30">
+  </div>
+  <!--Profile menu-->
+  <!-- Mobile Navigation Starts -->
+  <div class="mobile-tabs visible-xs">
+   <div class="container mobile-tabs-menu font-regular">
+    <li>
+     <a class="mobile-tabs-menu-active" href="/organization/flipkart.com" tag="about">
+      About
+     </a>
+    </li>
+    <li>
+     <a class="" href="/organization/flipkart.com/storyline" id="timeline" tag="time-line">
+      Storyline
+     </a>
+    </li>
+    <li>
+     <a class="" href="/organization/flipkart.com/investments" tag="investment">
+      Investments
+     </a>
+    </li>
+    <li>
+     <a class="" href="/organization/flipkart.com/news" tag="news">
+      News
+     </a>
+    </li>
+   </div>
+  </div>
+  <!--Mobile Navigation Starts -->
+  <div class="col-lg-12 margin-top-30 margin-bottom-30">
+   <div class="container no-padding">
+    <div class="investor-profile-body col-lg-9">
+     <div class="about profile-tabs">
+      <div class="clearfix">
+      </div>
+      <div class="square-portfolio margin-top-20 padding-bottom-60 border-bottom">
+       <div class="row margin-bottom-30 section-heading">
+        <div class="col-lg-12">
+         <div class="font-regular font-20">
+          Founders
+          <a class="font-gray-nine view-link " href="/create/organization/flipkart.com/founders">
+           <i class="fa fa-pencil" style="font-size:18px">
+           </i>
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="row font-13 font-light">
+        <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 xxs-50 portfolio-item gallery-cell">
+         <div class="gallery-item">
+          <div class="gallery-thumb" style="background-color:transparent">
+           <img alt="18a81bf220" class="img-responsive img-circle" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/2e397b26-94f3-4e5a-990b-bbcae2d211e0/18a81bf220"/>
+          </div>
+          <div class="gallery-details">
+           <div class="editContent text-center margin-top-15 gallery-cell-text">
+            Binny Bansal
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 xxs-50 portfolio-item gallery-cell">
+         <div class="gallery-item">
+          <div class="gallery-thumb" style="background-color:transparent">
+           <img alt="F525fa8f59" class="img-responsive img-circle" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/100bd534-260f-4d83-920a-85e5bb9f1382/f525fa8f59"/>
+          </div>
+          <div class="gallery-details">
+           <div class="editContent text-center margin-top-15 gallery-cell-text">
+            Sachin Bansal
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="clearfix">
+        </div>
+        <div class="clearfix">
+        </div>
+       </div>
+      </div>
+      <div class="square-portfolio margin-top-60 padding-bottom-60 border-bottom">
+       <!-- Page Heading -->
+       <div class="row margin-bottom-30 section-heading">
+        <div class="col-lg-12">
+         <div class="font-regular font-20">
+          Investors
+          <a class="font-gray-nine view-link " href="/create/organization/flipkart.com/investments">
+           <i class="fa fa-pencil" style="font-size:18px">
+           </i>
+          </a>
+         </div>
+        </div>
+       </div>
+       <!-- /.row -->
+       <!-- Projects Row -->
+       <div class="row font-13 font-light">
+        <a href="/organization/accel.com" target="_blank">
+         <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 xxs-50 portfolio-item gallery-cell">
+          <div class="gallery-item">
+           <div class="gallery-thumb">
+            <img alt="Square a3e993b669" class="img-responsive" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/1b679425-07c9-484e-80da-fab1c14257cf/square_a3e993b669"/>
+           </div>
+           <div class="gallery-details">
+            <div class="editContent text-center margin-top-15 gallery-cell-text">
+             <div data-placement="bottom" data-toggle="tooltip" title="Accel">
+              Accel
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </a>
+        <a href="/organization/tigerglobal.com" target="_blank">
+         <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 xxs-50 portfolio-item gallery-cell">
+          <div class="gallery-item">
+           <div class="gallery-thumb">
+            <img alt="Square 453690d0d9" class="img-responsive" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/a984cc7a-e8ff-4c43-9160-999be883a69f/square_453690d0d9"/>
+           </div>
+           <div class="gallery-details">
+            <div class="editContent text-center margin-top-15 gallery-cell-text">
+             <div data-placement="bottom" data-toggle="tooltip" title="Tiger Global Management">
+              Tiger Glob...
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </a>
+        <a href="/organization/steadview.com" target="_blank">
+         <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 xxs-50 portfolio-item gallery-cell">
+          <div class="gallery-item">
+           <div class="gallery-thumb">
+            <img alt="Square 26e7d321b6" class="img-responsive" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/d0596e08-3b22-4690-adf0-5d32ea6278d9/square_26e7d321b6"/>
+           </div>
+           <div class="gallery-details">
+            <div class="editContent text-center margin-top-15 gallery-cell-text">
+             <div data-placement="bottom" data-toggle="tooltip" title="Steadview Capital">
+              Steadview ...
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </a>
+        <a href="/organization/dst-global.com" target="_blank">
+         <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 xxs-50 portfolio-item gallery-cell">
+          <div class="gallery-item">
+           <div class="gallery-thumb">
+            <img alt="Square 3e0d1e4fb6" class="img-responsive" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/a553db86-f0b3-4935-978f-bfca24f9f856/square_3e0d1e4fb6"/>
+           </div>
+           <div class="gallery-details">
+            <div class="editContent text-center margin-top-15 gallery-cell-text">
+             <div data-placement="bottom" data-toggle="tooltip" title="DST Global">
+              DST Global
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </a>
+        <a href="/organization/sofina.be" target="_blank">
+         <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 xxs-50 portfolio-item gallery-cell">
+          <div class="gallery-item">
+           <div class="gallery-thumb">
+            <img alt="Square 8906d4824e" class="img-responsive" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/42f59a94-a4a7-4299-aab5-7e7f096cdee2/square_8906d4824e"/>
+           </div>
+           <div class="gallery-details">
+            <div class="editContent text-center margin-top-15 gallery-cell-text">
+             <div data-placement="bottom" data-toggle="tooltip" title="Sofina">
+              Sofina
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </a>
+        <a href="/organization/naspers.com" target="_blank">
+         <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 xxs-50 portfolio-item gallery-cell">
+          <div class="gallery-item">
+           <div class="gallery-thumb">
+            <img alt="Square 68013f3701" class="img-responsive" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/e4a621c0-331c-46fc-a721-bc19d46c7e8f/square_68013f3701"/>
+           </div>
+           <div class="gallery-details">
+            <div class="editContent text-center margin-top-15 gallery-cell-text">
+             <div data-placement="bottom" data-toggle="tooltip" title="Naspers">
+              Naspers
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </a>
+        <a href="/organization/greenoakscap.com" target="_blank">
+         <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 xxs-50 portfolio-item gallery-cell">
+          <div class="gallery-item">
+           <div class="gallery-thumb">
+            <img alt="Square 5ee65fd45d" class="img-responsive" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/8ec6f685-d319-4c25-8920-ae7d727141d1/square_5ee65fd45d"/>
+           </div>
+           <div class="gallery-details">
+            <div class="editContent text-center margin-top-15 gallery-cell-text">
+             <div data-placement="bottom" data-toggle="tooltip" title="Greenoaks Capital">
+              Greenoaks ...
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </a>
+        <a href="/organization/iconiqcapital.com" target="_blank">
+         <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 xxs-50 portfolio-item gallery-cell">
+          <div class="gallery-item">
+           <div class="gallery-thumb">
+            <img alt="Square 98a7cca15f" class="img-responsive" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/973fcfd5-505d-4a2f-b28d-6e94ede00acb/square_98a7cca15f"/>
+           </div>
+           <div class="gallery-details">
+            <div class="editContent text-center margin-top-15 gallery-cell-text">
+             <div data-placement="bottom" data-toggle="tooltip" title="Iconiq Capital">
+              Iconiq Cap...
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </a>
+        <a href="/organization/bailliegifford.com" target="_blank">
+         <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 xxs-50 portfolio-item gallery-cell">
+          <div class="gallery-item">
+           <div class="gallery-thumb">
+            <img alt="Square 3a00d8d7bf" class="img-responsive" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/82b07fd5-544d-42e3-8a8b-df7cfe58b9a7/square_3a00d8d7bf"/>
+           </div>
+           <div class="gallery-details">
+            <div class="editContent text-center margin-top-15 gallery-cell-text">
+             <div data-placement="bottom" data-toggle="tooltip" title="Baillie Gifford">
+              Baillie Gi...
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </a>
+        <a href="/organization/morganstanley.com" target="_blank">
+         <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 xxs-50 portfolio-item gallery-cell">
+          <div class="gallery-item">
+           <div class="gallery-thumb">
+            <img alt="Square 84e5bd22de" class="img-responsive" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/0de0b3ae-64ff-4a87-83f4-940201ef0cea/square_84e5bd22de"/>
+           </div>
+           <div class="gallery-details">
+            <div class="editContent text-center margin-top-15 gallery-cell-text">
+             <div data-placement="bottom" data-toggle="tooltip" title="Morgan Stanley Alternative Investment Partners">
+              Morgan Sta...
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </a>
+        <a href="/organization/troweprice.com" target="_blank">
+         <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 xxs-50 portfolio-item gallery-cell">
+          <div class="gallery-item">
+           <div class="gallery-thumb">
+            <img alt="Square fd865dc41a" class="img-responsive" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/8bb5ba43-8e43-4f51-a571-28238f9201e2/square_fd865dc41a"/>
+           </div>
+           <div class="gallery-details">
+            <div class="editContent text-center margin-top-15 gallery-cell-text">
+             <div data-placement="bottom" data-toggle="tooltip" title="T. Rowe Price">
+              T. Rowe Pr...
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </a>
+        <a href="/organization/qia.qa" target="_blank">
+         <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 xxs-50 portfolio-item gallery-cell">
+          <div class="gallery-item">
+           <div class="gallery-thumb">
+            <img alt="Square 4ab00412d2" class="img-responsive" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/b0dbfac2-7a75-411a-9a8e-f4b075c39835/square_4ab00412d2"/>
+           </div>
+           <div class="gallery-details">
+            <div class="editContent text-center margin-top-15 gallery-cell-text">
+             <div data-placement="bottom" data-toggle="tooltip" title="Qatar Investment Authority">
+              Qatar Inve...
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </a>
+        <a href="/organization/gicofindia.com" target="_blank">
+         <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 xxs-50 portfolio-item gallery-cell">
+          <div class="gallery-item">
+           <div class="gallery-thumb">
+            <img alt="Square d60df13d97" class="img-responsive" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/349557f1-6b37-4e11-a1e2-41efc33a0c08/square_d60df13d97"/>
+           </div>
+           <div class="gallery-details">
+            <div class="editContent text-center margin-top-15 gallery-cell-text">
+             <div data-placement="bottom" data-toggle="tooltip" title="GIC">
+              GIC
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </a>
+        <a href="/organization/vulcan.com" target="_blank">
+         <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 xxs-50 portfolio-item gallery-cell">
+          <div class="gallery-item">
+           <div class="gallery-thumb">
+            <img alt="Square c2c42a8291" class="img-responsive" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/414c0289-50fc-42c5-bf24-faeaf474cdb5/square_c2c42a8291"/>
+           </div>
+           <div class="gallery-details">
+            <div class="editContent text-center margin-top-15 gallery-cell-text">
+             <div data-placement="bottom" data-toggle="tooltip" title="Vulcan Inc.">
+              Vulcan Inc...
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </a>
+       </div>
+       <!-- /.row -->
+      </div>
+      <div class="margin-top-60 padding-bottom-45 border-bottom">
+       <!-- Page Heading -->
+       <div class="row margin-bottom-30">
+        <div class="col-lg-12">
+         <div class="font-regular font-20">
+          Growth Metrics
+         </div>
+        </div>
+       </div>
+       <!-- /.row -->
+       <img alt="Growth1 5dfaea5a6b2987e217f5a17a37e9599933fda3ffb26a4330eec1d0813ef16c79" class="img-responsive" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/growth1-5dfaea5a6b2987e217f5a17a37e9599933fda3ffb26a4330eec1d0813ef16c79.gif"/>
+      </div>
+      <div class="margin-top-60 padding-bottom-45 border-bottom overlay" style="position:relative;">
+       <!-- Page Heading -->
+       <div class="row margin-bottom-30">
+        <div class="col-lg-12">
+         <div class="font-regular font-20">
+          Storyline
+         </div>
+        </div>
+       </div>
+       <!-- /.row -->
+       <div>
+        <div class="row time-line profile-tabs margin-bottom-30">
+         <div class=" col-lg-11 col-md-12 col-sm-12 top-margin no-padding-mobile">
+          <div id="storyline_timeline_container">
+           <ul class="timeline">
+            <input id="ulgin" type="hidden" value="">
+             <li class="time-label">
+              <span class="bg-light-blue">
+               October 2016
+              </span>
+             </li>
+             <li data-organization-storyline-item-id="5809e4a13aae7b1459fe7ec7" id="5809e4a13aae7b1459fe7ec7">
+              <span class="connector">
+              </span>
+              <div class="emoji-holder" id="emo-5809e4a13aae7b1459fe7ec7" style="right: 0%;">
+               <div class="emoji smile" data-organization-storyline-item-id="5809e4a13aae7b1459fe7ec7" tag="9">
+                <span>
+                 0
+                </span>
+                <img alt="Smile fc7172b3b7792369b327a7f68bf98fe68481f58dd0b3cabd280f0e6b5d289f46" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/smile-fc7172b3b7792369b327a7f68bf98fe68481f58dd0b3cabd280f0e6b5d289f46.png"/>
+               </div>
+               <div class="emoji sad" data-organization-storyline-item-id="5809e4a13aae7b1459fe7ec7" tag="61">
+                <span>
+                 0
+                </span>
+                <img alt="Sad bdb6211f34cdab4a1d2d9500e22b32fa91509c260052ef95b67d2b2ee09a2bb9" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/sad-bdb6211f34cdab4a1d2d9500e22b32fa91509c260052ef95b67d2b2ee09a2bb9.png"/>
+               </div>
+               <div class="emoji wtf" data-organization-storyline-item-id="5809e4a13aae7b1459fe7ec7" tag="114">
+                <span>
+                 0
+                </span>
+                <img alt="Wtf 664a116bd091e3a025a52b1c92acb2973202a5f74d64915871e6d75a1c560845" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/wtf-664a116bd091e3a025a52b1c92acb2973202a5f74d64915871e6d75a1c560845.png"/>
+               </div>
+              </div>
+              <a href="javascript:void(0);">
+               <i class="fa fa-twitter">
+               </i>
+              </a>
+              <div class="timeline-item" data-uniq-id="5809e4a13aae7b1459fe7ec7">
+               <div class="timeline-body">
+                <div class="timeline-item-title">
+                 Flipkart makes one-day record of Rs 1.4k crore in sales
+                </div>
+                <p>
+                 Flipkart started its BBD sale on October 2 which ends on October 6, 2016.
+                </p>
+                <div style="text-align:center">
+                 <blockquote class="twitter-tweet" data-lang="en">
+                  <p dir="ltr" lang="en">
+                   ?It is now clear that if anybody can do something of this scale, it is Flipkart? Know more visit:
+                   <a href="https://t.co/ldj0F3kkZ9">
+                    https://t.co/ldj0F3kkZ9
+                   </a>
+                   <a href="https://twitter.com/hashtag/BigBillionDays?src=hash">
+                    #BigBillionDays
+                   </a>
+                  </p>
+                  ? Life At Flipkart (@WorkAtFlipkart)
+                  <a href="https://twitter.com/WorkAtFlipkart/status/784669950912987136">
+                   October 8, 2016
+                  </a>
+                 </blockquote>
+                 <script async="" charset="utf-8" src="//platform.twitter.com/widgets.js">
+                 </script>
+                </div>
+               </div>
+              </div>
+              <div class="timeline-footer" style="color: rgb(174, 174, 174);">
+               <span class="share" tag="5809e4a13aae7b1459fe7ec7">
+                <i class="fa fa-wechat font-light">
+                 <span class="font-regular">
+                  Share
+                 </span>
+                </i>
+                <div class="post-share" style="display: none;">
+                 <a class="prettySocial" data-description="Flipkart makes one-day record of Rs 1.4k crore in sales" data-media="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/49d485b6-4a5d-4567-9875-6a5e0b6d5cda/square_36eb84edab" data-title="Flipkart makes one-day record of Rs 1.4k crore in sales" data-type="facebook" data-url="https://profiles.yourstory.com/organization/flipkart.com/storyline#5809e4a13aae7b1459fe7ec7" style="color: rgb(174, 174, 174);" tag="8">
+                  <img alt="Facebook f d7728ebe7c933a9c570f01080dd73b5cc924fe8a2e9f226e0717c91d6ed9a3bf" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/facebook_F-d7728ebe7c933a9c570f01080dd73b5cc924fe8a2e9f226e0717c91d6ed9a3bf.png"/>
+                 </a>
+                 <a class="prettySocial" data-description="Flipkart makes one-day record of Rs 1.4k crore in sales" data-media="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/49d485b6-4a5d-4567-9875-6a5e0b6d5cda/square_36eb84edab" data-type="twitter" data-url="https://profiles.yourstory.com/organization/flipkart.com/storyline#5809e4a13aae7b1459fe7ec7" data-via="yourstoryco" style="color: rgb(174, 174, 174);" tag="37">
+                  <img alt="Twitter f 4bc2af6de0ce755bb3c2d6577b3c45fe203fd7e89fce5ce46e834ff57252464c" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/twitter_F-4bc2af6de0ce755bb3c2d6577b3c45fe203fd7e89fce5ce46e834ff57252464c.png"/>
+                 </a>
+                 <a class="prettySocial" data-description="Flipkart makes one-day record of Rs 1.4k crore in sales" data-media="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/49d485b6-4a5d-4567-9875-6a5e0b6d5cda/square_36eb84edab" data-type="googleplus" data-url="https://profiles.yourstory.com/organization/flipkart.com/storyline#5809e4a13aae7b1459fe7ec7" style="color: rgb(174, 174, 174);" tag="98">
+                  <img alt="Googleplus f 14ae04f1df296fa42ddb2eee738f0263ba194ef5e38ab60efd7dddef948928e7" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/googleplus_F-14ae04f1df296fa42ddb2eee738f0263ba194ef5e38ab60efd7dddef948928e7.png"/>
+                 </a>
+                 <a class="prettySocial" data-description="Flipkart makes one-day record of Rs 1.4k crore in sales" data-media="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/49d485b6-4a5d-4567-9875-6a5e0b6d5cda/square_36eb84edab" data-type="googleplus" data-url="https://profiles.yourstory.com/organization/flipkart.com/storyline#5809e4a13aae7b1459fe7ec7" style="color: rgb(174, 174, 174);" tag="68">
+                  <img alt="Linkedin f 299a9e7aded9615790f4efb1de6aed2cfc4d6e45a1b6e548d651f03168d5de14" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/linkedin_F-299a9e7aded9615790f4efb1de6aed2cfc4d6e45a1b6e548d651f03168d5de14.png"/>
+                 </a>
+                </div>
+               </span>
+               <i aria-hidden="true" class="fa fa-smile-o pull-right mobile-emo hidden-lg hidden-md" tag="5809e4a13aae7b1459fe7ec7">
+               </i>
+               <span class="timeline-item-date">
+                <a href="javascript:void(0);" style="color: rgb(174, 174, 174);">
+                 05 October 2016
+                </a>
+               </span>
+              </div>
+             </li>
+             <li class="time-label">
+              <span class="bg-light-blue">
+               July 2016
+              </span>
+             </li>
+             <li data-organization-storyline-item-id="57bace4e3aae7b7794839afd" id="57bace4e3aae7b7794839afd">
+              <span class="connector">
+              </span>
+              <div class="emoji-holder" id="emo-57bace4e3aae7b7794839afd" style="right: 0%;">
+               <div class="emoji smile" data-organization-storyline-item-id="57bace4e3aae7b7794839afd" tag="9">
+                <span>
+                 1
+                </span>
+                <img alt="Smile fc7172b3b7792369b327a7f68bf98fe68481f58dd0b3cabd280f0e6b5d289f46" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/smile-fc7172b3b7792369b327a7f68bf98fe68481f58dd0b3cabd280f0e6b5d289f46.png"/>
+               </div>
+               <div class="emoji sad" data-organization-storyline-item-id="57bace4e3aae7b7794839afd" tag="61">
+                <span>
+                 0
+                </span>
+                <img alt="Sad bdb6211f34cdab4a1d2d9500e22b32fa91509c260052ef95b67d2b2ee09a2bb9" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/sad-bdb6211f34cdab4a1d2d9500e22b32fa91509c260052ef95b67d2b2ee09a2bb9.png"/>
+               </div>
+               <div class="emoji wtf" data-organization-storyline-item-id="57bace4e3aae7b7794839afd" tag="114">
+                <span>
+                 0
+                </span>
+                <img alt="Wtf 664a116bd091e3a025a52b1c92acb2973202a5f74d64915871e6d75a1c560845" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/wtf-664a116bd091e3a025a52b1c92acb2973202a5f74d64915871e6d75a1c560845.png"/>
+               </div>
+              </div>
+              <a href="javascript:void(0);">
+               <i class="fa fa-youtube">
+               </i>
+              </a>
+              <div class="timeline-item" data-uniq-id="57bace4e3aae7b7794839afd">
+               <div class="timeline-body">
+                <div class="timeline-item-title">
+                 Flipkart-owned Myntra acquires Jabong
+                </div>
+                <p>
+                 "The acquisition of Jabong further strengthens Flipkart Group's position as the undisputed leader in Fashion and Lifestyle segment in India," Myntra said in a statement.
+                </p>
+                <div style="text-align:center">
+                </div>
+                <iframe allowfullscreen="" frameborder="0" height="300" src="https://www.youtube.com/embed/8261deGbMwM?rel=0" width="100%">
+                </iframe>
+               </div>
+              </div>
+              <div class="timeline-footer" style="color: rgb(174, 174, 174);">
+               <span class="share" tag="57bace4e3aae7b7794839afd">
+                <i class="fa fa-wechat font-light">
+                 <span class="font-regular">
+                  Share
+                 </span>
+                </i>
+                <div class="post-share" style="display: none;">
+                 <a class="prettySocial" data-description="Flipkart-owned Myntra acquires Jabong" data-media="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/49d485b6-4a5d-4567-9875-6a5e0b6d5cda/square_36eb84edab" data-title="Flipkart-owned Myntra acquires Jabong" data-type="facebook" data-url="https://profiles.yourstory.com/organization/flipkart.com/storyline#57bace4e3aae7b7794839afd" style="color: rgb(174, 174, 174);" tag="8">
+                  <img alt="Facebook f d7728ebe7c933a9c570f01080dd73b5cc924fe8a2e9f226e0717c91d6ed9a3bf" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/facebook_F-d7728ebe7c933a9c570f01080dd73b5cc924fe8a2e9f226e0717c91d6ed9a3bf.png"/>
+                 </a>
+                 <a class="prettySocial" data-description="Flipkart-owned Myntra acquires Jabong" data-media="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/49d485b6-4a5d-4567-9875-6a5e0b6d5cda/square_36eb84edab" data-type="twitter" data-url="https://profiles.yourstory.com/organization/flipkart.com/storyline#57bace4e3aae7b7794839afd" data-via="yourstoryco" style="color: rgb(174, 174, 174);" tag="37">
+                  <img alt="Twitter f 4bc2af6de0ce755bb3c2d6577b3c45fe203fd7e89fce5ce46e834ff57252464c" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/twitter_F-4bc2af6de0ce755bb3c2d6577b3c45fe203fd7e89fce5ce46e834ff57252464c.png"/>
+                 </a>
+                 <a class="prettySocial" data-description="Flipkart-owned Myntra acquires Jabong" data-media="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/49d485b6-4a5d-4567-9875-6a5e0b6d5cda/square_36eb84edab" data-type="googleplus" data-url="https://profiles.yourstory.com/organization/flipkart.com/storyline#57bace4e3aae7b7794839afd" style="color: rgb(174, 174, 174);" tag="98">
+                  <img alt="Googleplus f 14ae04f1df296fa42ddb2eee738f0263ba194ef5e38ab60efd7dddef948928e7" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/googleplus_F-14ae04f1df296fa42ddb2eee738f0263ba194ef5e38ab60efd7dddef948928e7.png"/>
+                 </a>
+                 <a class="prettySocial" data-description="Flipkart-owned Myntra acquires Jabong" data-media="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/49d485b6-4a5d-4567-9875-6a5e0b6d5cda/square_36eb84edab" data-type="googleplus" data-url="https://profiles.yourstory.com/organization/flipkart.com/storyline#57bace4e3aae7b7794839afd" style="color: rgb(174, 174, 174);" tag="68">
+                  <img alt="Linkedin f 299a9e7aded9615790f4efb1de6aed2cfc4d6e45a1b6e548d651f03168d5de14" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/linkedin_F-299a9e7aded9615790f4efb1de6aed2cfc4d6e45a1b6e548d651f03168d5de14.png"/>
+                 </a>
+                </div>
+               </span>
+               <i aria-hidden="true" class="fa fa-smile-o pull-right mobile-emo hidden-lg hidden-md" tag="57bace4e3aae7b7794839afd">
+               </i>
+               <span class="timeline-item-date">
+                <a href="javascript:void(0);" style="color: rgb(174, 174, 174);">
+                 26 July 2016
+                </a>
+               </span>
+              </div>
+             </li>
+            </input>
+           </ul>
+          </div>
+         </div>
+        </div>
+        <div class="row similar-organization hidden">
+         <div class="similar-companies margin-top-30 col-lg-11 col-xs-12 border padding-15 radius font-gray-two">
+          <div class="row margin-bottom-15">
+           <div class="col-lg-12">
+            <div class="font-regular font-18">
+             Similar Companies
+            </div>
+           </div>
+          </div>
+          <div class="media border-bottom padding-bottom-15">
+           <a class="media-left" href="/organization/redesyn.com" style="-webkit-padding-end: 10px;">
+            <img alt="REDESYN" class="media-object" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/80822a00-96c5-4742-bc87-daed0d4e44ed/square_df633cc240" width="64"/>
+           </a>
+           <div class="media-body">
+            <h5 class="media-heading margin-top-15 font-light">
+             REDESYN
+            </h5>
+            <!--
+                <span class="pull-right font-12 font-light margin-top-10">1 Views</span>
+                -->
+           </div>
+          </div>
+          <div class="media border-bottom padding-bottom-15">
+           <a class="media-left" href="/organization/rentiva.in" style="-webkit-padding-end: 10px;">
+            <img alt="Rentiva" class="media-object" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/97ef5082-a497-4bc7-8298-77d63e19c11d/square_2403cbabe1" width="64"/>
+           </a>
+           <div class="media-body">
+            <h5 class="media-heading margin-top-15 font-light">
+             Rentiva
+            </h5>
+            <!--
+                <span class="pull-right font-12 font-light margin-top-10">1 Views</span>
+                -->
+           </div>
+          </div>
+          <div class="media border-bottom padding-bottom-15">
+           <a class="media-left" href="/organization/directcreate.com" style="-webkit-padding-end: 10px;">
+            <img alt="Direct Create" class="media-object" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/4d8eb0b5-f693-4c8a-b040-ed58ebf1dbd3/square_e993d54fd8" width="64"/>
+           </a>
+           <div class="media-body">
+            <h5 class="media-heading margin-top-15 font-light">
+             Direct Create
+            </h5>
+            <!--
+                <span class="pull-right font-12 font-light margin-top-10">1 Views</span>
+                -->
+           </div>
+          </div>
+          <div class="media border-bottom padding-bottom-15">
+           <a class="media-left" href="/organization/weblistr.com" style="-webkit-padding-end: 10px;">
+            <img alt="Weblistr" class="media-object" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/a235bded-c146-4a7b-871b-0ec121bcbe84/square_b828f46fdd" width="64"/>
+           </a>
+           <div class="media-body">
+            <h5 class="media-heading margin-top-15 font-light">
+             Weblistr
+            </h5>
+            <!--
+                <span class="pull-right font-12 font-light margin-top-10">1 Views</span>
+                -->
+           </div>
+          </div>
+          <div class="media border-bottom padding-bottom-15">
+           <a class="media-left" href="/organization/myshopup.com" style="-webkit-padding-end: 10px;">
+            <img alt="Myshopup" class="media-object" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/d19e6ecd-ab4a-428c-b24c-29eaeadad2a7/square_654cc90902" width="64"/>
+           </a>
+           <div class="media-body">
+            <h5 class="media-heading margin-top-15 font-light">
+             Myshopup
+            </h5>
+            <!--
+                <span class="pull-right font-12 font-light margin-top-10">1 Views</span>
+                -->
+           </div>
+          </div>
+          <div class="media border-bottom padding-bottom-15">
+           <a class="media-left" href="/organization/panunshop.com" style="-webkit-padding-end: 10px;">
+            <img alt="Panunshop" class="media-object" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/e7cb94b1-be56-4d7d-a505-63415c669ef2/square_3f4fed80a1" width="64"/>
+           </a>
+           <div class="media-body">
+            <h5 class="media-heading margin-top-15 font-light">
+             Panunshop
+            </h5>
+            <!--
+                <span class="pull-right font-12 font-light margin-top-10">1 Views</span>
+                -->
+           </div>
+          </div>
+          <div class="media border-bottom padding-bottom-15">
+           <a class="media-left" href="/organization/rechargeadda.com" style="-webkit-padding-end: 10px;">
+            <img alt="rechargeADDA.com" class="media-object" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/cbd3ab31-da41-4c15-8f60-27bedb5a73ce/square_b494ece972" width="64"/>
+           </a>
+           <div class="media-body">
+            <h5 class="media-heading margin-top-15 font-light">
+             rechargeADDA.com
+            </h5>
+            <!--
+                <span class="pull-right font-12 font-light margin-top-10">1 Views</span>
+                -->
+           </div>
+          </div>
+          <div class="media border-bottom padding-bottom-15">
+           <a class="media-left" href="/organization/midnightcake.com" style="-webkit-padding-end: 10px;">
+            <img alt="Midnightcake" class="media-object" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/ceb7128e-eb7d-4105-b8a0-5102b80fc780/square_ee6e3604c6" width="64"/>
+           </a>
+           <div class="media-body">
+            <h5 class="media-heading margin-top-15 font-light">
+             Midnightcake
+            </h5>
+            <!--
+                <span class="pull-right font-12 font-light margin-top-10">1 Views</span>
+                -->
+           </div>
+          </div>
+          <div class="media border-bottom padding-bottom-15">
+           <a class="media-left" href="/organization/skoolstore.com" style="-webkit-padding-end: 10px;">
+            <img alt="Skool Stores Pvt. Ltd." class="media-object" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/f003dfb7-9d46-4abb-ac64-d67d31649deb/square_803be8e568" width="64"/>
+           </a>
+           <div class="media-body">
+            <h5 class="media-heading margin-top-15 font-light">
+             Skool Stores Pvt. Ltd.
+            </h5>
+            <!--
+                <span class="pull-right font-12 font-light margin-top-10">1 Views</span>
+                -->
+           </div>
+          </div>
+          <div class="media border-bottom padding-bottom-15">
+           <a class="media-left" href="/organization/woodin.in" style="-webkit-padding-end: 10px;">
+            <img alt="Woodin Watches Pvt Ltd" class="media-object" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/4ff41e37-b962-45e5-af17-46c1da76a272/square_4eb52a4e40" width="64"/>
+           </a>
+           <div class="media-body">
+            <h5 class="media-heading margin-top-15 font-light">
+             Woodin Watches Pvt Ltd
+            </h5>
+            <!--
+                <span class="pull-right font-12 font-light margin-top-10">1 Views</span>
+                -->
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <a class="pull-right font-gray-nine margin-top-30 view-link" href="/organization/flipkart.com/storyline" style="position:relative;z-index:2;">
+        View Complete Storyline
+       </a>
+       <div class="clearfix">
+       </div>
+      </div>
+      <div class="margin-top-60 border-bottom" style="position:relative; padding-bottom: 11%;">
+       <!-- Page Heading -->
+       <div class="row margin-bottom-45">
+        <div class="col-lg-12">
+         <div class="font-regular font-20">
+          Funding &amp; Investments
+          <a class="font-gray-nine view-link " href="/create/organization/flipkart.com/investments">
+           <i class="fa fa-pencil" style="font-size:18px">
+           </i>
+          </a>
+         </div>
+        </div>
+       </div>
+       <!-- /.row -->
+       <div class="fund-invest-holder overlay">
+        <table class="table table-striped">
+         <tbody>
+          <tr>
+           <th scope="row">
+            2015
+           </th>
+           <td>
+            Private Equity
+           </td>
+           <td>
+            700 Million USD
+           </td>
+           <td>
+            Tiger Global Management
+                                ,
+                                Steadview Capital
+           </td>
+          </tr>
+          <tr>
+           <th scope="row">
+            2014
+           </th>
+           <td>
+            Series I
+           </td>
+           <td>
+            700 Million USD
+           </td>
+           <td>
+            T. Rowe Price
+                                ,
+                                Qatar Investment Authority
+                                ,
+                                Baillie Gifford
+                                ,
+                                Greenoaks Capital
+                                ,
+                                DST Global
+                                ,
+                                Iconiq Capital
+                                ,
+                                GIC
+                                ,
+                                Naspers
+                                ,
+                                Tiger Global Management
+                                ,
+                                Steadview Capital
+           </td>
+          </tr>
+          <tr>
+           <th scope="row">
+            2014
+           </th>
+           <td>
+            Series H
+           </td>
+           <td>
+            1 Billion USD
+           </td>
+           <td>
+            Sofina
+                                ,
+                                Morgan Stanley Alternative Investment Partners
+                                ,
+                                Naspers
+                                ,
+                                Accel
+                                ,
+                                DST Global
+                                ,
+                                Tiger Global Management
+           </td>
+          </tr>
+          <tr>
+           <th scope="row">
+            2014
+           </th>
+           <td>
+            Series G
+           </td>
+           <td>
+            210 Million USD
+           </td>
+           <td>
+            DST Global
+           </td>
+          </tr>
+          <tr>
+           <th scope="row">
+            2013
+           </th>
+           <td>
+            Series F
+           </td>
+           <td>
+            160 Million USD
+           </td>
+           <td>
+            Vulcan Inc.
+                                ,
+                                Sofina
+                                ,
+                                Morgan Stanley Alternative Investment Partners
+                                ,
+                                Tiger Global Management
+           </td>
+          </tr>
+          <tr>
+           <th scope="row">
+            2013
+           </th>
+           <td>
+            Series E
+           </td>
+           <td>
+            200 Million USD
+           </td>
+           <td>
+            Naspers
+                                ,
+                                Tiger Global Management
+                                ,
+                                Accel
+                                ,
+                                Iconiq Capital
+           </td>
+          </tr>
+          <tr>
+           <th scope="row">
+            2012
+           </th>
+           <td>
+            Series D
+           </td>
+           <td>
+            150 Million USD
+           </td>
+           <td>
+            Iconiq Capital
+                                ,
+                                Naspers
+                                ,
+                                Accel
+                                ,
+                                Tiger Global Management
+           </td>
+          </tr>
+          <tr>
+           <th scope="row">
+            2011
+           </th>
+           <td>
+            Series C
+           </td>
+           <td>
+            20 Million USD
+           </td>
+           <td>
+            Tiger Global Management
+           </td>
+          </tr>
+          <tr>
+           <th scope="row">
+            2010
+           </th>
+           <td>
+            Series B
+           </td>
+           <td>
+            10 Million USD
+           </td>
+           <td>
+            Tiger Global Management
+           </td>
+          </tr>
+          <tr>
+           <th scope="row">
+            2009
+           </th>
+           <td>
+            Series A
+           </td>
+           <td>
+            1 Million USD
+           </td>
+           <td>
+            Accel
+           </td>
+          </tr>
+         </tbody>
+        </table>
+       </div>
+       <a class="pull-right font-gray-nine margin-top-30 view-link" href="/organization/flipkart.com/investments" style="position:relative;z-index:2;">
+        View All Investment Rounds
+       </a>
+       <div class="clearfix">
+       </div>
+      </div>
+      <div class="margin-top-60 padding-bottom-45">
+       <!-- Page Heading -->
+       <div class="row margin-bottom-45">
+        <div class="col-lg-12">
+         <div class="font-regular font-20">
+          Other Info
+         </div>
+        </div>
+       </div>
+       <!-- /.row -->
+       <div class="other-info-holder padding-left-30 border-left">
+        <div class="row padding-15">
+         <span class="info-connector">
+         </span>
+         <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4 other-left-bg">
+          Founded In
+         </div>
+         <div class="col-lg-5 col-md-5 col-sm-5 col-xs-8">
+          2007
+         </div>
+        </div>
+        <div class="row padding-15">
+         <span class="info-connector">
+         </span>
+         <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4 other-left-bg">
+          Headquarters
+         </div>
+         <div class="col-lg-5 col-md-5 col-sm-5 col-xs-8">
+          Bangalore, Karnataka, , India
+         </div>
+        </div>
+        <div class="row padding-15">
+         <span class="info-connector">
+         </span>
+         <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4 other-left-bg">
+          Employees
+         </div>
+         <div class="col-lg-5 col-md-5 col-sm-5 col-xs-8">
+          1001-5000
+         </div>
+        </div>
+        <div class="row padding-15">
+         <span class="info-connector">
+         </span>
+         <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4 other-left-bg">
+          Website
+         </div>
+         <div class="col-lg-5 col-md-5 col-sm-5 col-xs-8">
+          <a href="http://flipkart.com" target="_blank">
+           flipkart.com
+          </a>
+         </div>
+        </div>
+        <div class="row padding-15">
+         <span class="info-connector">
+         </span>
+         <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4 other-left-bg">
+          Social
+         </div>
+         <div class="col-lg-5 col-md-5 col-sm-5 col-xs-8">
+          <a href="https://www.facebook.com/flipkart" target="blank">
+           <img alt="Facebook share 0fcead8a7a571f2d09c18ce33b85362d184977eb656eadd20a33eff7853092bd" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/facebook-share-0fcead8a7a571f2d09c18ce33b85362d184977eb656eadd20a33eff7853092bd.png"/>
+          </a>
+          <a href="https://twitter.com/flipkart" target="blank">
+           <img alt="Twitter share 1c678efc2ca0beaefff206b9f5fb1d5d85223502e70633ff6b51e0dfdf76bdf0" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/twitter-share-1c678efc2ca0beaefff206b9f5fb1d5d85223502e70633ff6b51e0dfdf76bdf0.png"/>
+          </a>
+          <!-- <a href="#"><img src="https://d12fdm3gkm7ro6.cloudfront.net/assets/instagram-share-8d070584b5e297e3acb50e5408a791ff255aafffb04ceee47fe9f06d5b11643f.png" alt="Instagram share 8d070584b5e297e3acb50e5408a791ff255aafffb04ceee47fe9f06d5b11643f" /></a> -->
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="clearfix">
+      </div>
+     </div>
+    </div>
+    <div class="col-lg-3 no-padding hidden-sm hidden-xs">
+     <div class="similar-companies margin-top-30 col-lg-11 col-xs-12 border padding-15 radius font-gray-two">
+      <div class="row margin-bottom-15">
+       <div class="col-lg-12">
+        <div class="font-regular font-18">
+         Similar Companies
+        </div>
+       </div>
+      </div>
+      <div class="media border-bottom padding-bottom-15">
+       <a class="media-left" href="/organization/redesyn.com" style="-webkit-padding-end: 10px;">
+        <img alt="REDESYN" class="media-object" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/80822a00-96c5-4742-bc87-daed0d4e44ed/square_df633cc240" width="64"/>
+       </a>
+       <div class="media-body">
+        <h5 class="media-heading margin-top-15 font-light">
+         REDESYN
+        </h5>
+        <!--
+                <span class="pull-right font-12 font-light margin-top-10">1 Views</span>
+                -->
+       </div>
+      </div>
+      <div class="media border-bottom padding-bottom-15">
+       <a class="media-left" href="/organization/rentiva.in" style="-webkit-padding-end: 10px;">
+        <img alt="Rentiva" class="media-object" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/97ef5082-a497-4bc7-8298-77d63e19c11d/square_2403cbabe1" width="64"/>
+       </a>
+       <div class="media-body">
+        <h5 class="media-heading margin-top-15 font-light">
+         Rentiva
+        </h5>
+        <!--
+                <span class="pull-right font-12 font-light margin-top-10">1 Views</span>
+                -->
+       </div>
+      </div>
+      <div class="media border-bottom padding-bottom-15">
+       <a class="media-left" href="/organization/directcreate.com" style="-webkit-padding-end: 10px;">
+        <img alt="Direct Create" class="media-object" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/4d8eb0b5-f693-4c8a-b040-ed58ebf1dbd3/square_e993d54fd8" width="64"/>
+       </a>
+       <div class="media-body">
+        <h5 class="media-heading margin-top-15 font-light">
+         Direct Create
+        </h5>
+        <!--
+                <span class="pull-right font-12 font-light margin-top-10">1 Views</span>
+                -->
+       </div>
+      </div>
+      <div class="media border-bottom padding-bottom-15">
+       <a class="media-left" href="/organization/weblistr.com" style="-webkit-padding-end: 10px;">
+        <img alt="Weblistr" class="media-object" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/a235bded-c146-4a7b-871b-0ec121bcbe84/square_b828f46fdd" width="64"/>
+       </a>
+       <div class="media-body">
+        <h5 class="media-heading margin-top-15 font-light">
+         Weblistr
+        </h5>
+        <!--
+                <span class="pull-right font-12 font-light margin-top-10">1 Views</span>
+                -->
+       </div>
+      </div>
+      <div class="media border-bottom padding-bottom-15">
+       <a class="media-left" href="/organization/myshopup.com" style="-webkit-padding-end: 10px;">
+        <img alt="Myshopup" class="media-object" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/d19e6ecd-ab4a-428c-b24c-29eaeadad2a7/square_654cc90902" width="64"/>
+       </a>
+       <div class="media-body">
+        <h5 class="media-heading margin-top-15 font-light">
+         Myshopup
+        </h5>
+        <!--
+                <span class="pull-right font-12 font-light margin-top-10">1 Views</span>
+                -->
+       </div>
+      </div>
+      <div class="media border-bottom padding-bottom-15">
+       <a class="media-left" href="/organization/panunshop.com" style="-webkit-padding-end: 10px;">
+        <img alt="Panunshop" class="media-object" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/e7cb94b1-be56-4d7d-a505-63415c669ef2/square_3f4fed80a1" width="64"/>
+       </a>
+       <div class="media-body">
+        <h5 class="media-heading margin-top-15 font-light">
+         Panunshop
+        </h5>
+        <!--
+                <span class="pull-right font-12 font-light margin-top-10">1 Views</span>
+                -->
+       </div>
+      </div>
+      <div class="media border-bottom padding-bottom-15">
+       <a class="media-left" href="/organization/rechargeadda.com" style="-webkit-padding-end: 10px;">
+        <img alt="rechargeADDA.com" class="media-object" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/cbd3ab31-da41-4c15-8f60-27bedb5a73ce/square_b494ece972" width="64"/>
+       </a>
+       <div class="media-body">
+        <h5 class="media-heading margin-top-15 font-light">
+         rechargeADDA.com
+        </h5>
+        <!--
+                <span class="pull-right font-12 font-light margin-top-10">1 Views</span>
+                -->
+       </div>
+      </div>
+      <div class="media border-bottom padding-bottom-15">
+       <a class="media-left" href="/organization/midnightcake.com" style="-webkit-padding-end: 10px;">
+        <img alt="Midnightcake" class="media-object" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/ceb7128e-eb7d-4105-b8a0-5102b80fc780/square_ee6e3604c6" width="64"/>
+       </a>
+       <div class="media-body">
+        <h5 class="media-heading margin-top-15 font-light">
+         Midnightcake
+        </h5>
+        <!--
+                <span class="pull-right font-12 font-light margin-top-10">1 Views</span>
+                -->
+       </div>
+      </div>
+      <div class="media border-bottom padding-bottom-15">
+       <a class="media-left" href="/organization/skoolstore.com" style="-webkit-padding-end: 10px;">
+        <img alt="Skool Stores Pvt. Ltd." class="media-object" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/f003dfb7-9d46-4abb-ac64-d67d31649deb/square_803be8e568" width="64"/>
+       </a>
+       <div class="media-body">
+        <h5 class="media-heading margin-top-15 font-light">
+         Skool Stores Pvt. Ltd.
+        </h5>
+        <!--
+                <span class="pull-right font-12 font-light margin-top-10">1 Views</span>
+                -->
+       </div>
+      </div>
+      <div class="media border-bottom padding-bottom-15">
+       <a class="media-left" href="/organization/woodin.in" style="-webkit-padding-end: 10px;">
+        <img alt="Woodin Watches Pvt Ltd" class="media-object" src="https://ysdatagraph.s3.amazonaws.com/uploads/production/medium/file/4ff41e37-b962-45e5-af17-46c1da76a272/square_4eb52a4e40" width="64"/>
+       </a>
+       <div class="media-body">
+        <h5 class="media-heading margin-top-15 font-light">
+         Woodin Watches Pvt Ltd
+        </h5>
+        <!--
+                <span class="pull-right font-12 font-light margin-top-10">1 Views</span>
+                -->
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="clearfix">
+  </div>
+  <div class="bg-cover">
+  </div>
+  <!-- Footer Starts -->
+  <footer>
+   <div class="footer">
+    <div class="row">
+     <div class="col-md-5 col-sm-12 col-xs-12">
+      <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+       <ul class="top-margin">
+        <li>
+         <a href="http://yourstory.com/our-story" target="_blank">
+          About Us
+         </a>
+        </li>
+        <li>
+         <a href="http://yourstory.com/contact-us/">
+          Contact Us
+         </a>
+        </li>
+        <li>
+         <a href="http://yourstory.com/frequently-asked-questions" target="_blank">
+          FAQs
+         </a>
+        </li>
+       </ul>
+       <div class="margin-top-30">
+        <a href="https://heapanalytics.com/?utm_source=badge" target="_blank">
+         <img alt="Heap | Mobile and Web Analytics" src="//heapanalytics.com/img/badge.png" style="width:92px;height:35px"/>
+        </a>
+       </div>
+      </div>
+      <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+       <ul class="top-margin">
+        <li>
+         <a href="http://yourstory.com/privacy" target="_blank">
+          Privacy
+         </a>
+        </li>
+        <li>
+         <a href="http://careers.yourstory.com" target="_blank">
+          Jobs@ys
+         </a>
+        </li>
+        <li>
+         <a href="http://yourstory.com/partner-events/" target="_blank">
+          Partner Events
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+       <ul class="top-margin">
+        <li>
+         <a href="http://yourstory.com/testimonials" target="_blank">
+          Testimonials
+         </a>
+        </li>
+        <li>
+         <a href="http://yourstory.com/disclaimer" target="_blank">
+          Disclaimer
+         </a>
+        </li>
+        <li>
+         <a href="http://yourstory.com/terms-and-conditions" target="_blank">
+          Terms &amp; Conditions
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+  </footer>
+ </body>
+</html>
+<div class="col-md-4 hidden-xs hidden-sm">
+</div>
+<div class="col-md-3 col-sm-12 col-xs-12 top-margin rightblock hidden-xs">
+ <img alt="Yourstory" class="img-responsive" src="https://d12fdm3gkm7ro6.cloudfront.net/assets/logo_ys-89b8854c9465d80f144ae5d9f5c09e4c7d4e31e8ea3c589592efa4a85f90e130.png"/>
+ <ul class="socialmedia">
+  <li>
+   <a href="https://www.facebook.com/YourStory.in" target="_blank">
+    <i class="fa fa-facebook">
+    </i>
+   </a>
+  </li>
+  <li>
+   <a href="https://twitter.com/YourStoryCo" target="_blank">
+    <i class="fa fa-twitter">
+    </i>
+   </a>
+  </li>
+  <li>
+   <a href="https://www.youtube.com/user/yourstorytv" target="_blank">
+    <i class="fa fa-youtube">
+    </i>
+   </a>
+  </li>
+  <li>
+   <a href="https://plus.google.com/111272339013288238153/about" target="_blank">
+    <i class="fa fa-google-plus">
+    </i>
+   </a>
+  </li>
+  <li>
+   <a href="https://in.linkedin.com/company/yourstory.com" target="_blank">
+    <i class="fa fa-linkedin">
+    </i>
+   </a>
+  </li>
+ </ul>
+</div>
+<div class="col-md-12 text-center copyright">
+ <p>
+  © 2016 Yourstory Media Private Limited. All rights reserved.
+ </p>
+</div>
+<!-- Footer Ends -->
+<!-- login Modal -->
+<div class="modal fade" id="login" role="dialog">
+ <div class="modal-dialog">
+  <div class="modal-content">
+   <!--loginModel-->
+   <div class="modal-tab login-tab">
+    <div class="modal-header">
+     <button class="close" data-dismiss="modal" type="button">
+      ×
+     </button>
+     <h4 class="modal-title">
+      Login
+     </h4>
+     <div class="modal-sub-title">
+      And you will be presented with the feed from your favorite companies
+     </div>
+    </div>
+    <div class="modal-body">
+     <div class="login-box">
+      <button class="facebook-login" type="button">
+       LOGIN VIA FACEBOOK
+      </button>
+      <button class="twitter-login" type="button">
+       LOGIN VIA TWITTER
+      </button>
+      <button class="linked-login" type="button">
+       LOGIN VIA LINKEDIN
+      </button>
+      <div class="margin-top-15 margin-bottm-30 font-18 font-gray-two">
+       <center>
+        Or
+       </center>
+      </div>
+      <input class="login-fields" placeholder="Email" type="text">
+       <input class="login-fields" placeholder="Password" type="password">
+        <button class="embed-form-submit login-btn uppercase" type="button">
+         Login
+        </button>
+       </input>
+      </input>
+     </div>
+    </div>
+    <div class="modal-footer">
+     <span class="pull-right font-gray-five font-14">
+      Want to create an account?
+      <a class="model-link" href="#" tag="signup-tab">
+       Sign Up?
+      </a>
+     </span>
+     <a class="model-link pull-left font-14" href="#" tag="reset-tab">
+      Forgot Password?
+     </a>
+    </div>
+   </div>
+   <!--loginModel-->
+   <!--registerModel-->
+   <div class="modal-tab signup-tab hide">
+    <div class="modal-header">
+     <button class="close" data-dismiss="modal" type="button">
+      ×
+     </button>
+     <h4 class="modal-title">
+      Create Your Account
+     </h4>
+     <div class="modal-sub-title">
+      By signing up, you get access to insights from various sectors &amp; market
+     </div>
+    </div>
+    <div class="modal-body">
+     <div class="login-box">
+      <button class="facebook-login margin-bottom-30" type="button">
+       LOGIN VIA FACEBOOK
+      </button>
+      <button class="twitter-login margin-bottom-30" type="button">
+       LOGIN VIA TWITTER
+      </button>
+      <button class="linked-login margin-bottom-30" type="button">
+       LOGIN VIA LINKEDIN
+      </button>
+      <button class="email-signup margin-bottom-30" type="button">
+       SIGN UP VIA EMAIL
+      </button>
+     </div>
+    </div>
+    <div class="modal-footer">
+     <span class="pull-right font-gray-five font-14">
+      Already have an account?
+      <a class="model-link" href="#" tag="login-tab">
+       Login
+      </a>
+     </span>
+    </div>
+   </div>
+   <!--registerModel-->
+   <!--forgot-mode-->
+   <div class="modal-tab reset-tab hide">
+    <div class="modal-header">
+     <button class="close" data-dismiss="modal" type="button">
+      ×
+     </button>
+     <h4 class="modal-title">
+      Reset your Password
+     </h4>
+     <div class="modal-sub-title">
+      Will send the password reset link to below email
+     </div>
+    </div>
+    <div class="modal-body">
+     <div class="login-box">
+      <input class="login-fields no-margin" placeholder="Email" type="text">
+       <button class="embed-form-submit send-reset-button login-btn uppercase margin-top-30 font-14" type="button">
+        SEND RESET LINK
+       </button>
+      </input>
+     </div>
+    </div>
+    <div class="modal-footer">
+     <span class="pull-right font-gray-five font-14">
+      Want to create an account?
+      <a class="model-link" href="#" tag="signup-tab">
+       Sign Up?
+      </a>
+     </span>
+     <span class="pull-left font-gray-five font-14">
+      Remember Password?
+      <a class="model-link" href="#" tag="signup-tab">
+       Login
+      </a>
+     </span>
+    </div>
+   </div>
+   <!--forgot-mode-->
+  </div>
+ </div>
+</div>
+<!-- Embed  Timeline Modal -->
+<div class="modal fade" id="createCompany" role="dialog">
+ <div class="modal-dialog modal-lg">
+  <div class="modal-content">
+   <div class="modal-header">
+    <h4 class="modal-title">
+     Create Your Company Profile
+    </h4>
+    <div class="modal-sub-title">
+     Get noticed easily by users &amp; investors, share your milestones &amp; much more
+    </div>
+   </div>
+   <div class="modal-body">
+    <form accept-charset="utf-8" action="/c/create" method="post">
+     <input name="authenticity_token" type="hidden" value="2/OQuXCXhciTOmaf1ByS5z76yNBD3kjVzYoQH8SK/aELSTRyrcc67hDWjjfNhWH427v38cRfg1ph3y3E0ESFcQ=="/>
+     <div class=" create-company">
+      <label>
+       Company Name
+      </label>
+      <input class="link-box" placeholder="Example: Stayzilla / Olacabs" type="text">
+       <label>
+        Domain/Sector
+       </label>
+       <input class="link-box" placeholder="Example: Ecommerce / SaaS" type="text">
+        <center>
+         <button class="create-company-btn" type="submit">
+          CREATE PROFILE
+         </button>
+        </center>
+       </input>
+      </input>
+     </div>
+    </form>
+   </div>
+   <div class="modal-footer">
+    <button class="close-modal" data-dismiss="modal" type="button">
+     Close
+    </button>
+   </div>
+  </div>
+ </div>
+</div>
+<script src="https://assets.freshdesk.com/widget/freshwidget.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+ FreshWidget.init("", {"queryString": "&widgetType=popup&captcha=yes", "utf8": "?", "widgetType": "popup", "buttonType": "text", "buttonText": "Support", "buttonColor": "white", "buttonBg": "#006063", "alignment": "3", "offset": "1100px", "formHeight": "500px", "captcha": "yes", "url": "https://ysprofiles.freshdesk.com"} );
+</script>
+<script type="text/javascript">
+ (function(window,document) {
+            window.openpicker = {};
+            var op = document.createElement('script'); op.type = 'text/javascript'; op.async = true;
+            op.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'openpicker.yourstory.com/script/v1.js?t=1464786350383';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(op, s);
+          })(window,document);
+</script>
